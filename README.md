@@ -627,3 +627,11 @@ She loves singing.
 7.             (black clothes) > She hates black clothes.
 8.    (the food on aeroplanes) > She hates the food on aeroplanes.
 ```
+
+
+![prepositions](prepositions.png)
+![sentences](sentences.jpg)
+![table-present-simple](table-present-simple.jpg)
+![tablica-glagolov-petrova-image](tablica-glagolov-petrova-image.gif)
+![verbs_prepositions-2b](verbs_prepositions-2b.png)
+![zr5XRPkpREbD7GizhV6fA](zr5XRPkpREbD7GizhV6fA.jpg)
