@@ -21,8 +21,17 @@
    | THEY |              |                |              |
 
 ```
-No language indicated, so no syntax highlighting.
-But let's throw in a <b>tag</b>.
+|      | Прошлое `BE` | Настоящее `BE` | Будущее `BE` |
+| ---- |:------------:|:--------------:|:------------:|
+| I    |              | AM             |              |
+| ---- |              |----------------|              |
+| HE   | WAS          |                |              |
+| SHE  |              | IS             |              |
+| IT   |              |                | WILL         |
+| ---- |--------------|----------------|              |
+| YOU  |              |                |              |
+| WE   | WERE         | ARE            |              |
+| THEY |              |                |              |
 ```
 
 ```javascript
