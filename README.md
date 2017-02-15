@@ -64,6 +64,93 @@
 ```
 
 
+```
+>> (Предлоги) http://english-tutorial.ru/grammar-96/
+ -=ЕСЛИ ПРИСУТСТВУЕТ СЛОВО ЧТО УКАЗЫВАЕТ НА ВРЕМЯ=-
+0. предлог не ставится если выражение включает одно из слов: 'next','last','this','that','one','any','each','every','some','all'
+   перед названиями дней в разговорной речи часто опускается предлог 'on' а периодичность может обозначаться словами days, nights, mornings, evenings, afternoons.
+ -=ВРЕМЯ ЧТО ВНУТРИ МЕНЕЕ-СУТОК=-
+1.          'at' используется для обозначения внутрисуточного времени: at 10 o’clock, at 7.45, at midnight, at night, at dinner.
+   ставится перед словами выражающими периодичность или сиюминутность: at the weekend, at weekends.
+                                                 популярные праздники: at Christmas, at New Year, at Easter.
+                                                    отдельные моменты: at the moment, at present, at the same time.
+ -=ДЛЯ ДАТ, ДЛЯ (ДАТ)ПРАЗДНИЧНЫХ ДНЕЙ, ДЛЯ (ДАТ)ДНЕЙ НЕДЕЛИ=-
+2.                                        'on' используется для обозначения дней недели: on Monday, on Tuesdays.
+                                                                       даты и праздники: on 21 March 1996, on April 1st, on Christmas Day, on my birthday
+   если перед временем суток указан день недели то словосочетание идет с предлогом 'on': on Saturday morning, on Sunday evening
+ -=ВРЕМЯ НА БОЛЕЕ ДЛИТЕЛЬНЫЕ-ПЕРИОДЫ И ВРЕМЯ НА ПРОМЕЖУТОК ВРЕМЕНИ=-
+3. 'in','in the' характеризует наиболее продолжительные периоды (месяцы, сезоны, года): in January, in (the) winter, in 1984, in the 1960s, in the 20th century, in the past, in (the) future.
+                 еще 'in','in the' определяет за какой промежуток выполняется действие: in the morning(s), in the afternoon(s), in the evening(s), in the night. Окончание -s указывает на то что событие повторяется каждый упомянутый период.
+-----------------------------
+>> (Английские предлоги места) http://online-teacher.ru/study/english-predlogi-mesta
+1.          'at' находится временное-короткое-время где-то внутри чего-то: at the railway station, at the theatre, at the birthday party
+2. 'on' находится временное-короткое-время возле,около,на чем-либо сверху: on the right side, on the sixth floor, on the radio, on TV
+3. 'in','in the' находится более-длительное-время где-то внутри (в рамках) чего-то: in Berlin, in the train, in the letter
++. next to, beside, by: непосредственно рядом, очень близко от чего-либо
++. under: расположение ниже/под чего-либо
++. below: расположение ниже какого-либо уровня
++. over: расположение сверху (на поверхности) чего-либо
++. above: расположение над чем-либо (выше)
++. across: расположение с другой стороны; переход на другую сторону чего-либо
++. through: прохождение насквозь, движение сквозь что-либо
++. to: движение по направлению к кому-либо или к чему-либо
++. into: движение, перемещение внутрь чего-либо
++. towards: движение по направлению к чему-либо или кому-либо, приближение без необходимости достижения цели
++. onto: движение, перемещение наверх
++. from: движение откуда-либо, от какой-то отправной точки; указание на происхождение
+
+There is a great difference between her wishes and his possibilities. == ЧТО-ТО-НЕЧТО ГДЕ-ТО-ТАМ существует огромная разница между ее желаниями и его возможностями.
+-----------------------------
+  -=МЕСТО=-
+a cinema ........... кинотеатр
+a swimming pool .... басейн
+a beach ............ пляж
+a park ............. парк
+a block of flats ... блочный дом (для жилья)
+a restaurant ....... ресторан
+  small shops ...... магазин
+a supermarket ...... супермаркет
+a street market .... рынок
+a shopping center .. (сеть магазинов)
+a town ............. (маленький) городок
+a city ............. (большой) город
+a village .......... село
+
+   -=ВРЕМЯ=-
+at midday .......... в (конкретно-точно) полдень (= одного дня..)
+at lunchtime ....... в (конкретно-точно) время обеда (= одного дня..)
+at midnight ........ в (конкретно-точно) полночь (= одного дня..)
+
+at the weekend ..... в этот (конкретно-точно) выходной день (= одного дня..)
+
+in the morning ..... в течении утра (в один из какого-нибудь часа = между-через..)
+in the afternoon ... в течении после обеда (полудень - в один из какого-нибудь часа = между-через..)
+in the evening ..... в течении вечера (в один из какого-нибудь часа = между-через..)
+
+on weekdays ........ в один из (какой-нибудь день) будних дней (в течении рабочей недели = на протяжении..)
+
+   -=ДЕЙСТВИЕ=-
+to open ............ (делать) открывать
+to close ........... (делать) приближаться
+to finish .......... (делать) останавливаться
+
+   -=...=-
+by bus ............. НА автобусе
+
+
+
++ + + + + + + + + +
++ + + + + + + + + +
+*   >>> (Гарри Поттер и Философский камень на английском с субтитрами) http://lelang.ru/english/series/garri-potter-i-filosofskij-kamen-na-anglijskom-s-subtitrami/
+*** >>> http://vasabi.tv/video/341-harry-potter-and-the-philosophers-stone/
+
+        http://vasabi.tv/video/movie/ >> http://vasabi.tv/user/profile/admin/
+		                              >> http://vasabi.tv/video/91-breaking-bad-sezon-1-epizod-1/
+```
+
+* `Книга` [Harry Potter and the Sorcerer's Stone](Harry%20Potter%20and%20the%20Sorcerer's%20Stone.pdf) **(** [Harry Potter and the Sorcerer's Stone](http://www2.sdfi.edu.cn/netclass/jiaoan/englit/download/Harry%20Potter%20and%20the%20Sorcerer's%20Stone.pdf) **)**
+* `Фильм` [Гарри Поттер и Философский камень на английском с субтитрами](http://lelang.ru/english/series/garri-potter-i-filosofskij-kamen-na-anglijskom-s-subtitrami/) **(**[Гарри Поттер и Философский камень на английском с субтитрами](http://vasabi.tv/video/341-harry-potter-and-the-philosophers-stone/) **)**
+
 [Simple Past vs. Present Perfect](http://ruthhernandezcornejo.blogspot.com/)
 
 |     |        `PRESENT`        |      `PAST SIMPLE`      |    `PAST PARTICIPLE`    |                         |
@@ -363,13 +450,6 @@ Goodness ...... доброта / великодушие
 
 
 ```
-*   >>> http://lelang.ru/english/series/garri-potter-i-filosofskij-kamen-na-anglijskom-s-subtitrami/
-*** >>> http://vasabi.tv/video/341-harry-potter-and-the-philosophers-stone/
-        http://vasabi.tv/user/profile/admin/
-		http://vasabi.tv/video/91-breaking-bad-sezon-1-epizod-1/
-*   >>> (harry-potter-and-the-philosopher's-stone books) http://www2.sdfi.edu.cn/netclass/jiaoan/englit/download/Harry%20Potter%20and%20the%20Sorcerer's%20Stone.pdf
-+ + + + + + + + + +
-+ + + + + + + + + +
 >> (5 простых правил порядка слов в английском) http://skyeng.ru/articles/5-prostyh-pravil-poryadka-slov-v-anglijskom
                                                 https://www.native-english.ru/grammar/word-order
 											  ( http://online-teacher.ru/study/english-predlogi-mesta )
@@ -437,75 +517,6 @@ j) five past one
 
 P. 143 | Remember these words
 -----------------------------
->> (Предлоги) http://english-tutorial.ru/grammar-96/
- -=ЕСЛИ ПРИСУТСТВУЕТ СЛОВО ЧТО УКАЗЫВАЕТ НА ВРЕМЯ=-
-0. предлог не ставится если выражение включает одно из слов: 'next','last','this','that','one','any','each','every','some','all'
-   перед названиями дней в разговорной речи часто опускается предлог 'on' а периодичность может обозначаться словами days, nights, mornings, evenings, afternoons.
- -=ВРЕМЯ ЧТО ВНУТРИ МЕНЕЕ-СУТОК=-
-1.          'at' используется для обозначения внутрисуточного времени: at 10 o’clock, at 7.45, at midnight, at night, at dinner.
-   ставится перед словами выражающими периодичность или сиюминутность: at the weekend, at weekends.
-                                                 популярные праздники: at Christmas, at New Year, at Easter.
-                                                    отдельные моменты: at the moment, at present, at the same time.
- -=ДЛЯ ДАТ, ДЛЯ (ДАТ)ПРАЗДНИЧНЫХ ДНЕЙ, ДЛЯ (ДАТ)ДНЕЙ НЕДЕЛИ=-
-2.                                        'on' используется для обозначения дней недели: on Monday, on Tuesdays.
-                                                                       даты и праздники: on 21 March 1996, on April 1st, on Christmas Day, on my birthday
-   если перед временем суток указан день недели то словосочетание идет с предлогом 'on': on Saturday morning, on Sunday evening
- -=ВРЕМЯ НА БОЛЕЕ ДЛИТЕЛЬНЫЕ-ПЕРИОДЫ И ВРЕМЯ НА ПРОМЕЖУТОК ВРЕМЕНИ=-
-3. 'in','in the' характеризует наиболее продолжительные периоды (месяцы, сезоны, года): in January, in (the) winter, in 1984, in the 1960s, in the 20th century, in the past, in (the) future.
-                 еще 'in','in the' определяет за какой промежуток выполняется действие: in the morning(s), in the afternoon(s), in the evening(s), in the night. Окончание -s указывает на то что событие повторяется каждый упомянутый период.
------------------------------
->> (Английские предлоги места) http://online-teacher.ru/study/english-predlogi-mesta
-1.          'at' находится временное-короткое-время где-то внутри чего-то: at the railway station, at the theatre, at the birthday party
-2. 'on' находится временное-короткое-время возле,около,на чем-либо сверху: on the right side, on the sixth floor, on the radio, on TV
-3. 'in','in the' находится более-длительное-время где-то внутри (в рамках) чего-то: in Berlin, in the train, in the letter
-+. next to, beside, by: непосредственно рядом, очень близко от чего-либо
-+. under: расположение ниже/под чего-либо
-+. below: расположение ниже какого-либо уровня
-+. over: расположение сверху (на поверхности) чего-либо
-+. above: расположение над чем-либо (выше)
-+. across: расположение с другой стороны; переход на другую сторону чего-либо
-+. through: прохождение насквозь, движение сквозь что-либо
-+. to: движение по направлению к кому-либо или к чему-либо
-+. into: движение, перемещение внутрь чего-либо
-+. towards: движение по направлению к чему-либо или кому-либо, приближение без необходимости достижения цели
-+. onto: движение, перемещение наверх
-+. from: движение откуда-либо, от какой-то отправной точки; указание на происхождение
-
-There is a great difference between her wishes and his possibilities. == ЧТО-ТО-НЕЧТО ГДЕ-ТО-ТАМ существует огромная разница между ее желаниями и его возможностями.
------------------------------
- -=МЕСТО=-
-a cinema ........... кинотеатр
-a swimming pool .... басейн
-a beach ............ пляж
-a park ............. парк
-a block of flats ... блочный дом (для жилья)
-a restaurant ....... ресторан
-  small shops ...... магазин
-a supermarket ...... супермаркет
-a street market .... рынок
-a shopping center .. (сеть магазинов)
- a town ............ (маленький) городок
- a city ............ (большой) город
- a village ......... село
- -=ВРЕМЯ=-
-at midday .......... в (конкретно-точно) полдень (= одного дня..)
-at lunchtime ....... в (конкретно-точно) время обеда (= одного дня..)
-at midnight ........ в (конкретно-точно) полночь (= одного дня..)
-
-at the weekend ..... в этот (конкретно-точно) выходной день (= одного дня..)
-
-in the morning ..... в течении утра (в один из какого-нибудь часа = между-через..)
-in the afternoon ... в течении после обеда (полудень - в один из какого-нибудь часа = между-через..)
-in the evening ..... в течении вечера (в один из какого-нибудь часа = между-через..)
-
-on weekdays ........ в один из (какой-нибудь день) будних дней (в течении рабочей недели = на протяжении..)
- -=ДЕЙСТВИЕ=-
-to open ............ (делать) открывать
-to close ........... (делать) приближаться
-to finish .......... (делать) останавливаться
- -=...=-
-by bus ............. НА автобусе
-
 #1
 1. I LIVE in a big flat in Milan.
 2. They HAVE breakfast in a cafe at the weekend.
