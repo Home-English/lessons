@@ -629,9 +629,10 @@ She loves singing.
 ```
 
 
-![prepositions](prepositions.png)
-![sentences](sentences.jpg)
-![table-present-simple](table-present-simple.jpg)
 ![tablica-glagolov-petrova-image](tablica-glagolov-petrova-image.gif)
-![verbs_prepositions-2b](verbs_prepositions-2b.png)
+![sentences](sentences.jpg)
 ![zr5XRPkpREbD7GizhV6fA](zr5XRPkpREbD7GizhV6fA.jpg)
+
+![prepositions](prepositions.png)
+
+![verbs_prepositions-2b](verbs_prepositions-2b.png)
