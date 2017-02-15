@@ -161,33 +161,6 @@
 
 
 ```
-*   >>> http://lelang.ru/english/series/garri-potter-i-filosofskij-kamen-na-anglijskom-s-subtitrami/
-*** >>> http://vasabi.tv/video/341-harry-potter-and-the-philosophers-stone/
-        http://vasabi.tv/user/profile/admin/
-		http://vasabi.tv/video/91-breaking-bad-sezon-1-epizod-1/
-*   >>> (harry-potter-and-the-philosopher's-stone books) http://www2.sdfi.edu.cn/netclass/jiaoan/englit/download/Harry%20Potter%20and%20the%20Sorcerer's%20Stone.pdf
-+ + + + + + + + + +
-+ + + + + + + + + +
->> (5 простых правил порядка слов в английском) http://skyeng.ru/articles/5-prostyh-pravil-poryadka-slov-v-anglijskom
-                                                https://www.native-english.ru/grammar/word-order
-											  ( http://online-teacher.ru/study/english-predlogi-mesta )
-
-|ОБСТОЯТЕЛЬСТВО МЕСТА-ВРЕМЕНИ| + [ПОДЛЕЖАЩЕЕ-СУЩЕСТВИТЕЛЬНОЕ] + [СКАЗУЕМОЕ-ГЛАГОЛ] + |ДОПОЛНЕНИЕ-ПРИЛАГАТЕЛЬНОЕ СУЩЕСТВИТЕЛЬНОЕ| + |ОБСТОЯТЕЛЬСТВО МЕСТА/ВРЕМЕНИ-ПРИЛАГАТЕЛЬНОЕ|
-
-We (подлежащее) do (сказуемое) our work (дополнение) with pleasure (обстоятельство места и времени).
-Мы [существительное] делаем [глагол] нашу работу [дополнение-существительное] с удовольствием [прилагательное].
-
-At the moment I cannot talk.
-В настоящий момент я не могу говорить.
-В настоящий момент (дополнение-места/времени) ... я (кто?) не могу (дополнение) говорить (что делать?)
-
-There is a great difference between her wishes and his possibilities.
-ЧТО-ТО-НЕЧТО ГДЕ-ТО-ТАМ существует огромная разница между ее желаниями и его возможностями.
-= = = = =
-(что?) ... существует (что делает?) огромная (какая?) разница (дополнение-что?) ...
-
-
-
 ---------------[ Глагол ]----------------------------[ ЧТО ДЕЛАТЬ?
 Achieve ........ достигать (цели) / добиваться (чего-либо) [ ЭЧИИВ ]
 Acquaint ....... знакомить / познакомить ..................... (аск-ить спрашивать/знакомить) [ ЭКВЭЙНТ ]
@@ -393,6 +366,33 @@ Goodness ...... доброта / великодушие
 
 
 ```
+*   >>> http://lelang.ru/english/series/garri-potter-i-filosofskij-kamen-na-anglijskom-s-subtitrami/
+*** >>> http://vasabi.tv/video/341-harry-potter-and-the-philosophers-stone/
+        http://vasabi.tv/user/profile/admin/
+		http://vasabi.tv/video/91-breaking-bad-sezon-1-epizod-1/
+*   >>> (harry-potter-and-the-philosopher's-stone books) http://www2.sdfi.edu.cn/netclass/jiaoan/englit/download/Harry%20Potter%20and%20the%20Sorcerer's%20Stone.pdf
++ + + + + + + + + +
++ + + + + + + + + +
+>> (5 простых правил порядка слов в английском) http://skyeng.ru/articles/5-prostyh-pravil-poryadka-slov-v-anglijskom
+                                                https://www.native-english.ru/grammar/word-order
+											  ( http://online-teacher.ru/study/english-predlogi-mesta )
+
+|ОБСТОЯТЕЛЬСТВО МЕСТА-ВРЕМЕНИ| + [ПОДЛЕЖАЩЕЕ-СУЩЕСТВИТЕЛЬНОЕ] + [СКАЗУЕМОЕ-ГЛАГОЛ] + |ДОПОЛНЕНИЕ-ПРИЛАГАТЕЛЬНОЕ СУЩЕСТВИТЕЛЬНОЕ| + |ОБСТОЯТЕЛЬСТВО МЕСТА/ВРЕМЕНИ-ПРИЛАГАТЕЛЬНОЕ|
+
+We (подлежащее) do (сказуемое) our work (дополнение) with pleasure (обстоятельство места и времени).
+Мы [существительное] делаем [глагол] нашу работу [дополнение-существительное] с удовольствием [прилагательное].
+
+At the moment I cannot talk.
+В настоящий момент я не могу говорить.
+В настоящий момент (дополнение-места/времени) ... я (кто?) не могу (дополнение) говорить (что делать?)
+
+There is a great difference between her wishes and his possibilities.
+ЧТО-ТО-НЕЧТО ГДЕ-ТО-ТАМ существует огромная разница между ее желаниями и его возможностями.
+= = = = =
+(что?) ... существует (что делает?) огромная (какая?) разница (дополнение-что?) ...
+
+
+
 P. 142 | Practice 2
 -------------------
 #1
