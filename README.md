@@ -6,3 +6,17 @@
 * [Coach Shane - Q&A](https://www.youtube.com/watch?v=AGiLUyWvLPI&list=PLKYJHW3dXOM7pXJOZVMb2rr15qg7-cL5D)
 
 
+
+
+   |      | Прошлое [BE] | Настоящее [BE] | Будущее [BE] |
+   | ---- |:------------:|:--------------:|:------------:|
+   | I    |              | AM             |              |
+   | ---- |              |----------------|              |
+   | HE   | WAS          |                |              |
+   | SHE  |              | IS             |              |
+   | IT   |              |                | WILL         |
+   | ---- |--------------|----------------|              |
+   | YOU  |              |                |              |
+   | WE   | WERE         | ARE            |              |
+   | THEY |              |                |              |
+
