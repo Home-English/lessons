@@ -68,8 +68,7 @@
 ```
 
 
-[Английские предлоги времени](http://english-tutorial.ru/grammar-96/)
-[Английские предлоги места](http://online-teacher.ru/study/english-predlogi-mesta)
+[Английские предлоги времени](http://english-tutorial.ru/grammar-96/) **|** [Английские предлоги места](http://online-teacher.ru/study/english-predlogi-mesta)
 
 ```
 -----------------------------[ Английские предлоги времени ]
