@@ -67,6 +67,8 @@
 [Simple Past vs. Present Perfect](http://ruthhernandezcornejo.blogspot.com/)
 
 |        Настоящее        |        Прошедшее        |       (Прошедшее)       |                       |
+
+
 |        `PRESENT`        |      `PAST SIMPLE`      |    `PAST PARTICIPLE`    |                       |
 | ----------------------- | ----------------------- | ----------------------- | --------------------- |
 | cut        (кат)        | cut        (кат)        | cut        (кат)        | резать                |
