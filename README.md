@@ -118,6 +118,20 @@
 ```
 
 
+[Употребление much, many, few, little, a lot of, plenty](http://engblog.ru/much-many-few-little-a-lot-of-plenty-usage)
+
+```
+1. -=НЕИСЧЕСЛЯЕМЫЕ существительные=-
+>  'Much / Little' .......... много / мало (немного)
+
+2. -=ИСЧЕСЛЯЕМЫЕ существительные=-
+>  'Many / Few' ............. много / мало (несколько)
+
+3. -=ИСЧЕСЛЯЕМЫЕ и НЕИСЧЕСЛЯЕМЫЕ существительные=-
+>  'A lot of / Plenty of' ... много / очень много
+```
+
+
 [Simple Past vs. Present Perfect](http://ruthhernandezcornejo.blogspot.com/)
 
 |     |        `PRESENT`        |      `PAST SIMPLE`      |    `PAST PARTICIPLE`    |                         |
