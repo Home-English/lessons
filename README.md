@@ -4,6 +4,7 @@
 * [ВСЯ грамматика для общения за 77 минут!](https://www.youtube.com/watch?v=KeKpqmncB3k) **(** [Вся английская грамматика за 90 минут!](https://www.youtube.com/watch?v=rtmaDeR9Iz8) > [Скачать](https://www.ssyoutube.com/watch?v=rtmaDeR9Iz8) **)**
 * [Полиглот английский за 16 часов.](https://www.youtube.com/watch?v=y9fFDpSqKdQ)
 * [Coach Shane - Q&A](https://www.youtube.com/watch?v=AGiLUyWvLPI&list=PLKYJHW3dXOM7pXJOZVMb2rr15qg7-cL5D)
+* ( `Книга` [STUDENT'S BOOK](CE%20ELEM%203RD%20SB.pdf) )
 * `Книга` [Harry Potter and the Sorcerer's Stone](Harry%20Potter%20and%20the%20Sorcerer's%20Stone.pdf) > [Скачать](http://www2.sdfi.edu.cn/netclass/jiaoan/englit/download/Harry%20Potter%20and%20the%20Sorcerer's%20Stone.pdf)
 * `Фильм` [Гарри Поттер и Философский камень на английском с субтитрами](http://lelang.ru/english/series/garri-potter-i-filosofskij-kamen-na-anglijskom-s-subtitrami/) **(**[Гарри Поттер и Философский камень на английском с субтитрами](http://vasabi.tv/video/341-harry-potter-and-the-philosophers-stone/) **)**
 * `Фильмы` [Top Gear](https://www.youtube.com/watch?v=nSqzp3kdAm4) **|** [I, Robot](https://fmovies.se/film/i-robot.r34y/024p43) **|** [Troy](https://fmovies.se/film/troy.6v39/w1pzyl)
@@ -105,7 +106,7 @@
 ```
 
 
-[Английские предлоги времени](http://english-tutorial.ru/grammar-96/) **|** [Английские предлоги места](http://online-teacher.ru/study/english-predlogi-mesta)
+[Английские предлоги времени](http://english-tutorial.ru/grammar-96/) **|** [Английские предлоги места](http://online-teacher.ru/study/english-predlogi-mesta) **|** [Употребление much, many, few, little, a lot of, plenty](http://engblog.ru/much-many-few-little-a-lot-of-plenty-usage)
 
 ```
 -----------------------------[ Английские предлоги времени ]
@@ -152,6 +153,17 @@
 
 3. -=НАХОДИТСЯ ПОСТОЯННО (НА БОЛЕЕ ДЛИТЕЛЬНОЕ ВРЕМЯ) ГДЕ-ТО ВНУТРИ (В РАМКАХ) ЧЕГО-ТО=-
 >  'in','in the' ............... in Berlin, in the train, in the letter
+
+
+-----------------------------[ Употребление much, many, few, little, a lot of, plenty ]
+1. -=НЕИСЧЕСЛЯЕМЫЕ существительные=-
+>  'Much / Little' .......... много / мало (немного)
+
+2. -=ИСЧЕСЛЯЕМЫЕ существительные=-
+>  'Many / Few' ............. много / мало (несколько)
+
+3. -=ИСЧЕСЛЯЕМЫЕ и НЕИСЧЕСЛЯЕМЫЕ существительные=-
+>  'A lot of / Plenty of' ... много / очень много
 ```
 
 
@@ -275,20 +287,6 @@
 
    Непросто говорить о себе, поскольку только люди со стороны могут видеть меня объективно.
    It is hard to speak about myself as only people surrounding me can see me objectively.
-```
-
-
-[Употребление much, many, few, little, a lot of, plenty](http://engblog.ru/much-many-few-little-a-lot-of-plenty-usage)
-
-```
-1. -=НЕИСЧЕСЛЯЕМЫЕ существительные=-
->  'Much / Little' .......... много / мало (немного)
-
-2. -=ИСЧЕСЛЯЕМЫЕ существительные=-
->  'Many / Few' ............. много / мало (несколько)
-
-3. -=ИСЧЕСЛЯЕМЫЕ и НЕИСЧЕСЛЯЕМЫЕ существительные=-
->  'A lot of / Plenty of' ... много / очень много
 ```
 
 
@@ -609,10 +607,6 @@ Goodness ...... доброта / великодушие
 
 
 ```
-- - - - - - - - - - - - - - - - - - - - - - - - [ lot/many/any ]
-
-
-
 There is a great difference between her wishes and his possibilities. == ЧТО-ТО-НЕЧТО ГДЕ-ТО-ТАМ существует огромная разница между ее желаниями и его возможностями.
 -----------------------------
   -=МЕСТО=-
