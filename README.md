@@ -11,6 +11,15 @@
 * `Другие фильмы` [1.](http://vasabi.tv/video/movie/) **|** [2.](http://vasabi.tv/user/profile/admin/) **|** [3.](http://vasabi.tv/video/91-breaking-bad-sezon-1-epizod-1/)
 
 
+| `Уровень`                      | Настроение             |
+| ------------------------------ | ---------------------- |
+| ![LOVE](101268868.5.jpg)       | LOVE `любить`          |
+| ![LIKE](101268868.4.jpg)       | LIKE `нравиться`       |
+| ![DON'T MIND](101268868.3.jpg) | DON'T MIND `не против` |
+| ![DON'T LIKE](101268868.2.jpg) | DON'T LIKE `не любить` |
+| ![HATE](101268868.1.jpg)       | HATE `ненавидить`      |
+
+
 ```
 ---------------[ ??? ]------------------------[
   WHAT ? ...... что/какой ?
@@ -21,6 +30,8 @@
    HOW ? ...... как ?
 ```
 
+
+Врремя:
 
 |                    | Будущее `BE` | Настоящее `BE` | Прошлое `BE` |
 | ------------------ |:------------:|:--------------:|:------------:|
@@ -176,7 +187,7 @@
 ```
 
 
-Принадлежность:
+Притяжательность **(** [Притяжательный падеж в английском языке](http://engblog.ru/possessive-case) **)**:
 
 |    `SUBJECT`   |       `OBJECT`      |      `OBJECT`     |
 | -------------- | ------------------- | ----------------- |
@@ -191,16 +202,6 @@
 | HE   `он`      | HIS   `его`         | HIM  `ему`        |
 | SHE  `она`     | HER   `ее`          | HER  `ей`         |
 | IT   `оно`     | ITS   `его`         |                   |
-
-
-
-| `Уровень`                      | Настроение             |
-| ------------------------------ | ---------------------- |
-| ![LOVE](101268868.5.jpg)       | LOVE `любить`          |
-| ![LIKE](101268868.4.jpg)       | LIKE `нравиться`       |
-| ![DON'T MIND](101268868.3.jpg) | DON'T MIND `не против` |
-| ![DON'T LIKE](101268868.2.jpg) | DON'T LIKE `не любить` |
-| ![HATE](101268868.1.jpg)       | HATE `ненавидить`      |
 
 
 [Порядок слов в английском предложении](https://www.native-english.ru/grammar/word-order) **|** [1](http://iloveenglish.ru/stories/view/pishem_interesnij_rasskaz_o_sebe_na_anglijskom) **|** [2](http://skyeng.ru/articles/gotovimsya-k-sobesedovaniyu-na-anglijskom-yazyke-rasskaz-o-sebe?source_type=cpa&utm_source=admitad&admitad_uid=511c2f4ff8d950bec40ac453849847f6) **|** [3](http://tonail.com/рассказ-о-себе-на-английском/)
