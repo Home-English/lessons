@@ -31,6 +31,23 @@
 ```
 
 
+Притяжательность **(** [Притяжательный падеж в английском языке](http://engblog.ru/possessive-case) **)**:
+
+|    `SUBJECT`   |       `OBJECT`      |      `OBJECT`     |
+| -------------- | ------------------- | ----------------- |
+|     *Кто ?*    |        *Чье ?*      |  *Кому / Кого ?*  |
+| -------------- | ------------------- | ----------------- |
+| I    `я`       | MY    `мое`         | ME   `мне`        |
+|                |                     |                   |
+| YOU  `ты / Вы` | YOUR  `твое / Ваше` | YOU  `тебе / Вам` |
+| WE   `мы`      | OUR   `наше`        | US   `нам`        |
+| THEY `они`     | THEIR `их`          | THEM `им`         |
+|                |                     |                   |
+| HE   `он`      | HIS   `его`         | HIM  `ему`        |
+| SHE  `она`     | HER   `ее`          | HER  `ей`         |
+| IT   `оно`     | ITS   `его`         |                   |
+
+
 Врремя:
 
 |                    | Будущее `BE` | Настоящее `BE` | Прошлое `BE` |
@@ -185,23 +202,6 @@
 3. -=ИСЧЕСЛЯЕМЫЕ и НЕИСЧЕСЛЯЕМЫЕ существительные=-
 >  'A lot of / Plenty of' ... много / очень много
 ```
-
-
-Притяжательность **(** [Притяжательный падеж в английском языке](http://engblog.ru/possessive-case) **)**:
-
-|    `SUBJECT`   |       `OBJECT`      |      `OBJECT`     |
-| -------------- | ------------------- | ----------------- |
-|     *Кто ?*    |        *Чье ?*      |  *Кому / Кого ?*  |
-| -------------- | ------------------- | ----------------- |
-| I    `я`       | MY    `мое`         | ME   `мне`        |
-|                |                     |                   |
-| YOU  `ты / Вы` | YOUR  `твое / Ваше` | YOU  `тебе / Вам` |
-| WE   `мы`      | OUR   `наше`        | US   `нам`        |
-| THEY `они`     | THEIR `их`          | THEM `им`         |
-|                |                     |                   |
-| HE   `он`      | HIS   `его`         | HIM  `ему`        |
-| SHE  `она`     | HER   `ее`          | HER  `ей`         |
-| IT   `оно`     | ITS   `его`         |                   |
 
 
 [Порядок слов в английском предложении](https://www.native-english.ru/grammar/word-order) **|** [1](http://iloveenglish.ru/stories/view/pishem_interesnij_rasskaz_o_sebe_na_anglijskom) **|** [2](http://skyeng.ru/articles/gotovimsya-k-sobesedovaniyu-na-anglijskom-yazyke-rasskaz-o-sebe?source_type=cpa&utm_source=admitad&admitad_uid=511c2f4ff8d950bec40ac453849847f6) **|** [3](http://tonail.com/рассказ-о-себе-на-английском/)
