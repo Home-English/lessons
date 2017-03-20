@@ -126,7 +126,7 @@
 ```
 
 
-[I've правила](https://books.google.com.ua/books?id=quroCwAAQBAJ&pg=PA116&lpg=PA116&dq=i've+правила&source=bl&ots=y9z5YawBee&sig=idIKMbsHb6v6Ljn0EDMS6br3PkM&hl=ru&sa=X&ved=0ahUKEwjUw9yEv-TSAhUFBSwKHcHXDAAQ6AEITzAJ#v=onepage&q&f=false)
+[I've правила](https://books.google.com.ua/books?id=quroCwAAQBAJ&pg=PA116&lpg=PA116&dq=i've+правила&source=bl&ots=y9z5YawBee&sig=idIKMbsHb6v6Ljn0EDMS6br3PkM&hl=ru&sa=X&ved=0ahUKEwjUw9yEv-TSAhUFBSwKHcHXDAAQ6AEITzAJ#v=onepage&q&f=false) **(** [1](http://eng911.ru/rules/grammar/have-has-had-pravila.html) **|** [2](http://eng911.ru/rules/time/present-perfect-i-present-continuous.html) **|** [3](https://www.learnathome.ru/grammar/have-has.html) **)**
 
   Будущее: I (I/You/We/They//He/She/It) will have ... = I'll have ...
            I (I/You/We/They//He/She/It) will not have ... = I won't have ...
