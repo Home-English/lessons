@@ -126,6 +126,43 @@
 ```
 
 
+[I've правила](https://books.google.com.ua/books?id=quroCwAAQBAJ&pg=PA116&lpg=PA116&dq=i've+правила&source=bl&ots=y9z5YawBee&sig=idIKMbsHb6v6Ljn0EDMS6br3PkM&hl=ru&sa=X&ved=0ahUKEwjUw9yEv-TSAhUFBSwKHcHXDAAQ6AEITzAJ#v=onepage&q&f=false)
+
+  Будущее: I (I/You/We/They//He/She/It) will have ... = I'll have ...
+           I (I/You/We/They//He/She/It) will not have ... = I won't have ...
+
+Настоящее: I/You/We/They have ... = I've ...
+               He/She/It has ...
+           I/You/We/They don't have ... = I haven't got ...
+             He/She/It doesn't have ... = He has't got ...
+           Do I/You/We/They have ? = Have I got ?
+           Does He/She/It have ? = Has He got ?
+
+Прошедшее: I (I/You/We/They//He/She/It) had ...
+           I (I/You/We/They//He/She/It) didn't have ...
+
+Глагол `to have`:
+
+|           | Утверждение                                | Отрицание                                      | Вопрос                  |
+| --------- | ------------------------------------------ | ---------------------------------------------- | ----------------------- |
+| Будущее   | I (I/You/We/They//He/She/It) will have ... | I (I/You/We/They//He/She/It) will not have ... |                         |
+|           | I'll have ...                              | I won't have ...                               |                         |
+|           |                                            |                                                |                         |
+| Настоящее | I/You/We/They have ...                     | I/You/We/They don't have ...                   | Do I/You/We/They have ? |
+|           | He/She/It has ...                          | He/She/It doesn't have ...                     | Does He/She/It have ?   |
+|           | I've ...                                   |                                                |                         |
+|           | I/You/We/They have got ...                 | I haven't got ...                              | Have I got ?            |
+|           | He/She/It has got ...                      | He has't got ...                               | Has He got ?            |
+|           |                                            |                                                |                         |
+|           |                                            |                                                |                         |
+| Прошедшее | I (I/You/We/They//He/She/It) had ...       | I (I/You/We/They//He/She/It) didn't have ...   |                         |
+
+![UftvK3](UftvK3.png)
+![gN45IF](gN45IF.png)
+![R7AT6i](R7AT6i.png)
+![MEC3TZ](MEC3TZ.png)
+
+
 Место:
 
 |              | *Единственное число* | *Множественное число* |
