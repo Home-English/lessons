@@ -147,14 +147,14 @@
 | --------- | ------------------------------------------ | ---------------------------------------------- | ----------------------- |
 | Будущее   | I (I/You/We/They//He/She/It) will have ... | I (I/You/We/They//He/She/It) will not have ... |                         |
 |           | I'll have ...                              | I won't have ...                               |                         |
-|           |                                            |                                                |                         |
+| --------- | ------------------------------------------ | ---------------------------------------------- | ----------------------- |
 | Настоящее | I/You/We/They have ...                     | I/You/We/They don't have ...                   | Do I/You/We/They have ? |
 |           | He/She/It has ...                          | He/She/It doesn't have ...                     | Does He/She/It have ?   |
 |           | I've ...                                   |                                                |                         |
 |           | I/You/We/They have got ...                 | I haven't got ...                              | Have I got ?            |
 |           | He/She/It has got ...                      | He has't got ...                               | Has He got ?            |
 |           |                                            |                                                |                         |
-|           |                                            |                                                |                         |
+| --------- | ------------------------------------------ | ---------------------------------------------- | ----------------------- |
 | Прошедшее | I (I/You/We/They//He/She/It) had ...       | I (I/You/We/They//He/She/It) didn't have ...   |                         |
 
 ![UftvK3](UftvK3.png)
