@@ -153,7 +153,6 @@
 |           | I've ...                                   |                                                |                         |
 |           | I/You/We/They have got ...                 | I haven't got ...                              | Have I got ?            |
 |           | He/She/It has got ...                      | He has't got ...                               | Has He got ?            |
-|           |                                            |                                                |                         |
 | --------- | ------------------------------------------ | ---------------------------------------------- | ----------------------- |
 | Прошедшее | I (I/You/We/They//He/She/It) had ...       | I (I/You/We/They//He/She/It) didn't have ...   |                         |
 
