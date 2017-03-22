@@ -1,6 +1,7 @@
 
 *[Markdown: Help](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)*
 
+* [Англійська граматика в таблицях](https://uchebe.net/referati/topiki-po-anglijskomu-yazyku/kniga-anglijska-gramatika-v-tablicyah)
 * [ВСЯ грамматика для общения за 77 минут!](https://www.youtube.com/watch?v=KeKpqmncB3k) **(** [Вся английская грамматика за 90 минут!](https://www.youtube.com/watch?v=rtmaDeR9Iz8) > [Скачать](https://www.ssyoutube.com/watch?v=rtmaDeR9Iz8) **)**
 * [Полиглот английский за 16 часов.](https://www.youtube.com/watch?v=y9fFDpSqKdQ)
 * [Coach Shane - Q&A](https://www.youtube.com/watch?v=AGiLUyWvLPI&list=PLKYJHW3dXOM7pXJOZVMb2rr15qg7-cL5D)
@@ -22,7 +23,7 @@
 ```
 
 
-Притяжательность **(** [Притяжательный падеж в английском языке](http://engblog.ru/possessive-case) **)**:
+Притяжательность **(** [Притяжательный падеж в английском языке](http://engblog.ru/possessive-case) **|** [Англійська граматика](https://www.google.com.ua/search?q=підмет+присудок+додаток+означення+обставина&tbm=isch&tbo=u&source=univ&sa=X&sqi=2&ved=0ahUKEwjk-7XZs-nSAhUJKpoKHWFeDTsQsAQIFw&biw=1467&bih=725#imgrc=egDtbDUDBvalmM:) **)**:
 
 |    `SUBJECT`   |       `OBJECT`      |      `OBJECT`     |
 | -------------- | ------------------- | ----------------- |
@@ -37,6 +38,8 @@
 | HE   `он`      | HIS   `его`         | HIM  `ему`        |
 | SHE  `она`     | HER   `ее`          | HER  `ей`         |
 | IT   `оно`     | ITS   `его`         |                   |
+
+![9467108](9467108.gif)
 
 
 Врремя:
@@ -403,7 +406,7 @@
    It is hard to speak about myself as only people surrounding me can see me objectively.
 ```
 
-[підмет присудок додаток означення обставина](https://www.google.com.ua/search?q=підмет+присудок+додаток+означення+обставина&tbm=isch&tbo=u&source=univ&sa=X&sqi=2&ved=0ahUKEwjk-7XZs-nSAhUJKpoKHWFeDTsQsAQIFw&biw=1467&bih=725)
+[підмет присудок додаток означення обставина](https://www.google.com.ua/search?q=підмет+присудок+додаток+означення+обставина&tbm=isch&tbo=u&source=univ&sa=X&sqi=2&ved=0ahUKEwjk-7XZs-nSAhUJKpoKHWFeDTsQsAQIFw&biw=1467&bih=725) **(** [еще](https://www.google.com.ua/imgres?imgurl=http%3A%2F%2Fwww.chasipodii.net%2Fpix%2Fimg_17806_2_1.jpg&imgrefurl=http%3A%2F%2Fwww.chasipodii.net%2Fmp%2Farticle%2F2051%2F&docid=I8HALmE2mt0ZBM&tbnid=nUNsT5mortfHcM%3A&vet=10ahUKEwis2aves-nSAhVsDJoKHS0YAfgQMwgqKBAwEA..i&w=640&h=219&bih=725&biw=1467&q=підмет%20присудок%20додаток%20означення%20обставина&ved=0ahUKEwis2aves-nSAhVsDJoKHS0YAfgQMwgqKBAwEA&iact=mrc&uact=8#h=219&imgrc=nUNsT5mortfHcM:&vet=10ahUKEwis2aves-nSAhVsDJoKHS0YAfgQMwgqKBAwEA..i&w=640) **)**
 
 ```
 Любое предложение имеет:
