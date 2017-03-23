@@ -158,6 +158,7 @@
 |           | He/She/It has got ...                      | He has't got ...                               | Has He got ?            |
 | --------- | ------------------------------------------ | ---------------------------------------------- | ----------------------- |
 | Прошедшее | I (I/You/We/They//He/She/It) had ...       | I (I/You/We/They//He/She/It) didn't have ...   |                         |
+|           | I (I/You/We/They//He/She/It) have been ... |                                                |                         |
 
 ![UftvK3](UftvK3.png)
 ![gN45IF](gN45IF.png)
