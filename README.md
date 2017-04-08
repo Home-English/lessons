@@ -298,6 +298,13 @@
 Они тебя найдут (Ты будеш пойман)
 Там нарисованный клоун на стене (Нарисованный клоун быть на той стене)
 Тебя исчет мама (Там есть мама где-то искать тебя)
+
+Furthermore, Moreover, - кроме того, более того
+inside / outside (side) = внутреняя / внешняя (сторона)
+in to / out to (to) = во внутрь / во внешний... (к)
+anywhere - нигде
+somebody - кто нибудь (много)
+anyone, anybody - никто, любой (ниодин)
 ```
 
 [підмет присудок додаток означення обставина](https://www.google.com.ua/search?q=підмет+присудок+додаток+означення+обставина&tbm=isch&tbo=u&source=univ&sa=X&sqi=2&ved=0ahUKEwjk-7XZs-nSAhUJKpoKHWFeDTsQsAQIFw&biw=1467&bih=725) **(** [еще](https://www.google.com.ua/imgres?imgurl=http%3A%2F%2Fwww.chasipodii.net%2Fpix%2Fimg_17806_2_1.jpg&imgrefurl=http%3A%2F%2Fwww.chasipodii.net%2Fmp%2Farticle%2F2051%2F&docid=I8HALmE2mt0ZBM&tbnid=nUNsT5mortfHcM%3A&vet=10ahUKEwis2aves-nSAhVsDJoKHS0YAfgQMwgqKBAwEA..i&w=640&h=219&bih=725&biw=1467&q=підмет%20присудок%20додаток%20означення%20обставина&ved=0ahUKEwis2aves-nSAhVsDJoKHS0YAfgQMwgqKBAwEA&iact=mrc&uact=8#h=219&imgrc=nUNsT5mortfHcM:&vet=10ahUKEwis2aves-nSAhVsDJoKHS0YAfgQMwgqKBAwEA..i&w=640) **)**
