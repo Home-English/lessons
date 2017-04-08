@@ -1,9 +1,9 @@
 
 *[Markdown: Help](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)*
 
-* [Англійська граматика в таблицях](https://uchebe.net/referati/topiki-po-anglijskomu-yazyku/kniga-anglijska-gramatika-v-tablicyah)
 * [ВСЯ грамматика для общения за 77 минут!](https://www.youtube.com/watch?v=KeKpqmncB3k) **(** [Вся английская грамматика за 90 минут!](https://www.youtube.com/watch?v=rtmaDeR9Iz8) > [Скачать](https://www.ssyoutube.com/watch?v=rtmaDeR9Iz8) **)**
-* [12 Английских Времён](https://www.youtube.com/watch?v=SZeG70-XYCA)
+* [12 Английских Времён](https://www.youtube.com/watch?v=SZeG70-XYCA) **(** [9 формул для общения](https://www.youtube.com/watch?v=eN1we9_RI_8) **|** [Все времена в английском](https://www.youtube.com/watch?v=l26n_plMwYw) **|** [ВСЕ МЕСТОИМЕНИЯ АНГЛИЙСКОГО ЯЗЫКА](https://www.youtube.com/watch?v=qkHiL7IH-Rs) **)**
+* [Английская грамматика за 20 минут](https://www.youtube.com/watch?v=oWCL0rm_VcA) **(** [Англійська граматика в таблицях](https://uchebe.net/referati/topiki-po-anglijskomu-yazyku/kniga-anglijska-gramatika-v-tablicyah) **)**
 * [Полиглот английский за 16 часов.](https://www.youtube.com/watch?v=y9fFDpSqKdQ)
 * [Coach Shane - Q&A](https://www.youtube.com/watch?v=AGiLUyWvLPI&list=PLKYJHW3dXOM7pXJOZVMb2rr15qg7-cL5D)
 * [BBC World Service](http://bbcworldservice.radio.net)
