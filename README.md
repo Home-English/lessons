@@ -140,7 +140,7 @@
                He/She/It has ...
            I/You/We/They don't have ... = I haven't got ...
              He/She/It doesn't have ... = He has't got ...
-           Do I/You/We/They have ? = Have I got ?
+            Do I/You/We/They have ? = Have I got ?
            Does He/She/It have ? = Has He got ?
 
 Прошедшее: I (I/You/We/They//He/She/It) had ...
@@ -176,7 +176,7 @@
 | ***Далеко*** | THAT                 | THOSE                 |
 
 
-[Английские предлоги места](http://online-teacher.ru/study/english-predlogi-mesta) **|** [Английские предлоги времени](http://english-tutorial.ru/grammar-96/) **|** [Употребление much, many, few, little, a lot of, plenty](http://engblog.ru/much-many-few-little-a-lot-of-plenty-usage)
+[Английские предлоги места](http://online-teacher.ru/study/english-predlogi-mesta) **|** [Английские предлоги времени](http://english-tutorial.ru/grammar-96/) **|** [Употребление much, many, few, little, a lot of, plenty](http://engblog.ru/much-many-few-little-a-lot-of-plenty-usage) **|** [Some – any, much – many, few – little](https://onlineteachersuk.com/blog/some-any-much-many-few-little-kak-upotreblyat-eti-slova)
 
 ```
 -----------------------------[ Английские предлоги места ]
@@ -238,6 +238,7 @@
    -= (но) =-
 Small team .................. (только одна) не большая команда
 Big team .................... (только одна) большая команда
+
 
 
 -----------------------------[  ]
