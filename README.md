@@ -5,7 +5,7 @@
 * [12 Английских Времён](https://www.youtube.com/watch?v=SZeG70-XYCA) **(** [9 формул для общения](https://www.youtube.com/watch?v=eN1we9_RI_8) **|** [Все времена в английском](https://www.youtube.com/watch?v=l26n_plMwYw) **|** [ВСЕ МЕСТОИМЕНИЯ АНГЛИЙСКОГО ЯЗЫКА](https://www.youtube.com/watch?v=qkHiL7IH-Rs) **)**
 * [Английская грамматика за 20 минут](https://www.youtube.com/watch?v=oWCL0rm_VcA) **(** [Англійська граматика в таблицях](https://uchebe.net/referati/topiki-po-anglijskomu-yazyku/kniga-anglijska-gramatika-v-tablicyah) **)**
 * [Полиглот английский за 16 часов.](https://www.youtube.com/watch?v=y9fFDpSqKdQ)
-* [Coach Shane - Q&A](https://www.youtube.com/watch?v=AGiLUyWvLPI&list=PLKYJHW3dXOM7pXJOZVMb2rr15qg7-cL5D)
+* [Coach Shane - Q&A](https://www.youtube.com/watch?v=AGiLUyWvLPI&list=PLKYJHW3dXOM7pXJOZVMb2rr15qg7-cL5D) **(** [American Pronunciation](https://www.youtube.com/watch?v=TgGvXPHGs1I) **|** [American English Pronunciation](https://www.youtube.com/watch?v=MqcCCFptaJk) **)**
 * [BBC World Service](http://bbcworldservice.radio.net) **(** [BBC World Service](http://www.bbc.co.uk/radio/player/bbc_world_service) **)**
 * ( `Книга` [STUDENT'S BOOK](CE%20ELEM%203RD%20SB.pdf) )
 * `Книга` [Harry Potter and the Sorcerer's Stone](Harry%20Potter%20and%20the%20Sorcerer's%20Stone.pdf) > [Скачать](http://www2.sdfi.edu.cn/netclass/jiaoan/englit/download/Harry%20Potter%20and%20the%20Sorcerer's%20Stone.pdf)
@@ -508,13 +508,63 @@ I'm leaving for London === Я уезжаю в Лондон (я есть оста
 > В русском языке можно оперировать окончаниями:
 
 > В английском языке можно оперировать только (состоянием + порядок слов):
-  + Есть | Является
-  + Имеет
-  + Быть
+  + Есть | Является (внутренее состояние)
+  + Имеет (владеть)
+  + Быть (место - there is|are...; это не может быть - it can't be; это не еально - it's not really; но что есть реальность - but what is a really;)
   + Делаю (Выполняется - в процессе) | Занимаюсь (мое хобби есть..., я есть IT-разработчик, ...) | Брать (принимать участие | брать уроки, ...)
-  + Сделано (уже выполнено) | Получить | Зайнят (busy)
+  + Сделано (уже выполнено) | Получить
 > Плюс такие себе союзы, чтобы связывать части сложного предложения:
   + and | of | for | from | in | that | what | to (into | out to) | even | ...
+
+
+  age ............... возраст
+  young ............. молодой
+  old ............... старый
+  edge .............. край
+  space ............. пространство
+  area .............. область (площадь)
+  a young space - молодое поколение
+  a old space - старое поколение
+
+  yet | still ....... еще (все еще)
+  already ........... уже
+  live .............. живой
+  still alive ....... еще живой
+  survive ........... выживать
+
+  state ............. состояние
+  static ............ неподвижный
+  stop (stoping) .... остонавливаться (прекращать)
+  stand ............. стоять (на ногах)
+  freeze ............ замерзать
+  constant .......... постоянный
+  ( static state - неподвижное состояние )
+
+  middle ............ средний
+  middleware ........ промежуточное ПО
+  broker ............ посредник
+  transit (transition) - переход (переходный период)
+
+  current ........... текущий
+  duration .......... продолжительность
+  ( Персистентность — продолжительность сохранения, активности в окружающей среде )
+  persistent - непрерывно возобновляющийся (persistent object - постоянный объект)
+
+  fall .............. падать
+  broke ............. ломать
+  thought ........... через (сквозь)
+  something that broke thought insite me (some broke throught for me) - что-то прорвалось во мне
+
+  Быть
+  ----
+  > I can be... ..... находиться (пребывать) в каком-нибудь внутреннем состоянии
+  > There is|are... . находиться (пребывать) в каком-нибудь физическом месте
+  I can be a strong - Я могу быть сильным
+  I will a strong (I'll a strong) - Я буду сильным
+  I will become a strong (I'll become a strong) - Я стану сильным
+  Now I in London (Now I'm in London) - сейчас я в Лондоне.
+  But tomorrow I'll in Egypt - но завтра я буду в Египте
+
 
 > Например:
   + Я могу выполнять задачи вовремя даже в случае возникновения сложностей...
@@ -1096,6 +1146,10 @@ Goodness ...... доброта / великодушие
 иногда ......................... sometime
 однажды ........................ one time
 следующий раз .................. next time
+anywhere ....................... нигде
+somebody .......................  кто нибудь (много)
+anyone, anybody ................ никто, любой (ниодин)
+There is a great difference between her wishes and his possibilities   ( ЧТО-ТО-НЕЧТО ГДЕ-ТО-ТАМ существует огромная разница между ее желаниями и его возможностями )
 
 -----------------------------------------------------[ 
 Платить ........................ Pay
