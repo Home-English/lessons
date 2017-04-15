@@ -520,6 +520,7 @@ I'm leaving for London === Я уезжаю в Лондон (я есть оста
   age ............... возраст
   young ............. молодой
   old ............... старый
+  place ............. место
   edge .............. край
   space ............. пространство
   area .............. область (площадь)
@@ -571,7 +572,7 @@ I'm leaving for London === Я уезжаю в Лондон (я есть оста
        I can give my work done even in the face difficult obstacles... (я могу получить свою работу успешно даже перед лицом сложных препятствий)
   + стэк - хранит только локальные переменные примитивных типов и ссылки на объекты в куче
        стэк есть (является) областью памяти для локальных примитивных типов и ссылочных типов из области кучи
-	   The stack is some memmory area for a locale of type primitive and a link type into at heap.
+	   The stack is some memmory space for locale of type primitive and link type from at heap.
   + управления памятью осуществляется по схеме LIFO (первый вошел - последний вышел)
        управление памятью использует схему LIFO (если первый является вошедшим - тогда он будет последним на выход)
 	   The memmory control used a LIFO shema (if some first item is entered then his will last item for output)
