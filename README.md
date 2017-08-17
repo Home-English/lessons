@@ -1368,6 +1368,8 @@ There is a great difference between her wishes and his possibilities   ( ЧТО-
 Сугубо ......................... Especially
 Ведущий переписку .............. Corresponding
 Подходящий ..................... Appropriate
+Загадочный ..................... Mysterious
+Полезный ....................... Useful
 ```
 
 
