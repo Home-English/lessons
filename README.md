@@ -1371,6 +1371,11 @@ There is a great difference between her wishes and his possibilities   ( ЧТО-
 Загадочный ..................... Mysterious
 Полезный ....................... Useful
 Сумма .......................... Amount
+Замешанный/Вовлеченный ......... Involved
+Запутанный ..................... Tangled/Entangled
+Хитрый (плохой) ................ Cunning/Tricky
+Хитрый (сумашедший) ............ Loopy
+Хитрый (умный) ................. Canny
 ```
 
 
