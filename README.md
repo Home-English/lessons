@@ -1365,6 +1365,9 @@ There is a great difference between her wishes and his possibilities   ( ЧТО-
 Течение/Поток .................. Flow
 Поплавок/На плаву .............. Float (Floating)
 Как? ........................... What?
+Сугубо ......................... Especially
+Ведущий переписку .............. Corresponding
+Подходящий ..................... Appropriate
 ```
 
 
