@@ -1370,6 +1370,7 @@ There is a great difference between her wishes and his possibilities   ( ЧТО-
 Подходящий ..................... Appropriate
 Загадочный ..................... Mysterious
 Полезный ....................... Useful
+Сумма .......................... Amount
 ```
 
 
