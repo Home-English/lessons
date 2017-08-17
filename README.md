@@ -1376,8 +1376,8 @@ There is a great difference between her wishes and his possibilities   ( ЧТО-
 Хитрый (плохой) ................ Cunning/Tricky
 Хитрый (сумашедший) ............ Loopy
 Хитрый (умный) ................. Canny
-величайший ..................... Greatest
-обнаружить ..................... Discover
+Величайший ..................... Greatest
+Обнаружить ..................... Discover
 ```
 
 
