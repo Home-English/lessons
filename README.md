@@ -12,7 +12,8 @@
 * `Фильм` [Гарри Поттер и Философский камень на английском с субтитрами](http://lelang.ru/english/series/garri-potter-i-filosofskij-kamen-na-anglijskom-s-subtitrami/) **(**[Гарри Поттер и Философский камень на английском с субтитрами](http://vasabi.tv/video/341-harry-potter-and-the-philosophers-stone/) **)**
 * `Фильмы` [Top Gear](https://www.youtube.com/watch?v=nSqzp3kdAm4) **|** [I, Robot](https://fmovies.se/film/i-robot.r34y/024p43) **|** [Troy](https://fmovies.se/film/troy.6v39/w1pzyl) **|** [Gladiator](https://fmovies.se/film/gladiator.xrz3/806xpn) **|** [Alien](https://fmovies.se/film/alien.rl8p/oj17j5) **|** [Terminator](https://fmovies.se/film/the-terminator.9o9m)
 * `Другие фильмы` [1.](http://vasabi.tv/video/movie/) **|** [2.](http://vasabi.tv/user/profile/admin/) **|** [3.](http://vasabi.tv/video/91-breaking-bad-sezon-1-epizod-1/) **|** [4.](http://lyricstranslate.com/ru/duck-tales-утиные-истории.html-1)
-
+* `Еще фильмы` [Кинг Конг (2005)](http://baskino.co/films/boeviki/1242-king-kong.html) **|** [Один дома](http://baskino.co/films/komedii/747-odin-doma.html) **|** [Один дома 2](http://baskino.co/films/komedii/749-odin-doma-2.html) **|** [Один дома 3](http://baskino.co/films/boeviki/751-odin-doma-3.html) **|** [Один дома 4](http://baskino.co/films/komedii/753-odin-doma-4.html) **|** [Онг Бак (2003)](http://baskino.co/films/boevie-iskustva/331-ong-bak.html) **|** [Troy](https://fmovies.se/film/troy.6v39/w1pzyl) **|** [I, Robot](https://fmovies.se/film/i-robot.r34y/024p43)
+* `Сказки на английском языке` [correctenglish.ru](http://www.correctenglish.ru/reading/fairy-tales/)
 
 ```
 ---------------[ ??? ]------------------------[
@@ -1378,6 +1379,10 @@ There is a great difference between her wishes and his possibilities   ( ЧТО-
 Хитрый (умный) ................. Canny
 Величайший ..................... Greatest
 Обнаружить ..................... Discover
+Поместиться .................... Fit
+Захватить ...................... Capture
+
+Много лет тому назад ........... Lot years ago
 ```
 
 
