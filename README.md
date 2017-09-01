@@ -1387,6 +1387,8 @@ There is a great difference between her wishes and his possibilities   ( ЧТО-
 Конечно/Уверен ................. Sure
 Бормотать ...................... Murmured 
 Явный .......................... Explicit 
+Ценить ......................... Appreciate 
+Честность ...................... Honesty
 
 Много лет тому назад ........... Lot years ago
 Я с нетерпением жду ............ I look forward  (Я с нетерпением жду Вашего ответа ... I look forward to hearing from you) 
