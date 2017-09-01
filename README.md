@@ -1354,6 +1354,7 @@ There is a great difference between her wishes and his possibilities   ( ЧТО-
 Обрушение ...................... Collapse
 Верный ......................... Correct
 Снижение ....................... Decrease
+Увеличение ..................... Increase
 Мастер ......................... Wizard
 Замечания ...................... Remarks
 Сотрудничество ................. Collaboration
