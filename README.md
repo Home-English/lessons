@@ -1389,7 +1389,8 @@ There is a great difference between her wishes and his possibilities   ( ЧТО-
 Явный .......................... Explicit 
 Ценить ......................... Appreciate 
 Честность ...................... Honesty
-Бегло (гладко) ................. Fluently 
+Бегло (гладко) ................. Fluently
+Основной (основополагающий) .... Fundamental
 
 Много лет тому назад ........... Lot years ago
 Я с нетерпением жду ............ I look forward  (Я с нетерпением жду Вашего ответа ... I look forward to hearing from you) 
