@@ -1398,6 +1398,7 @@ There is a great difference between her wishes and his possibilities   ( ЧТО-
 Может .......................... Can
 Может быть ..................... Maybe
 Условие ........................ Condition
+Вдоль (по длине) ............... Along
 
 Много лет тому назад ........... Lot years ago
 Я с нетерпением жду ............ I look forward  (Я с нетерпением жду Вашего ответа ... I look forward to hearing from you) 
