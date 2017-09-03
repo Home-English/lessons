@@ -1388,7 +1388,7 @@ There is a great difference between her wishes and his possibilities   ( ЧТО-
 Конечно/Уверен ................. Sure
 Бормотать ...................... Murmured 
 Явный .......................... Explicit 
-Ценить ......................... Appreciate 
+Ценить (оценивтаь) ............. Estimate / Appreciate
 Честность ...................... Honesty
 Бегло (гладко) ................. Fluently
 Основной (основополагающий) .... Fundamental
