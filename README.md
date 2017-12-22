@@ -1414,6 +1414,8 @@ There is a great difference between her wishes and his possibilities   ( ЧТО-
 - Coach (Coaching) ............... Тренер (Тренировка)
 + Cause .......................... Причина
 - Dedication ..................... Самоотверженность / посвящение
+- Decline ........................ Упадок
+- Denied ......................... Отказано
 - Enable ......................... Включить
 - Establish (Established) ........ Заложить / Установить (Установленный)
 - Forensic ....................... Судебный
@@ -1429,6 +1431,8 @@ There is a great difference between her wishes and his possibilities   ( ЧТО-
 - Terrible ....................... Ужасный
 - Reimbursement .................. Возмещение
 - Refund (Return) ................ Возвращение денег (Вернуть)
+- Restriction .................... Ограничение
+- Repairing ...................... Ремонт
 - Violate ........................ Нарушать
 
 Много лет тому назад ........... Lot years ago
