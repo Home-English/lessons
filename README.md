@@ -282,10 +282,6 @@ The government didn't take any steps to prevent the recession. ... Правит�
 ```
 
 
-[Порядок слов в английском предложении](https://www.native-english.ru/grammar/word-order) **|** [1](http://iloveenglish.ru/stories/view/pishem_interesnij_rasskaz_o_sebe_na_anglijskom) **|** [2](http://skyeng.ru/articles/gotovimsya-k-sobesedovaniyu-na-anglijskom-yazyke-rasskaz-o-sebe?source_type=cpa&utm_source=admitad&admitad_uid=511c2f4ff8d950bec40ac453849847f6) **|** [3](http://tonail.com/рассказ-о-себе-на-английском/)
-
-![EDnA6S](EDnA6S.png)
-
 ---
 ( В английском языке предложение формируется с точностью до наоборот по отношению к русскому языку )
 ```
@@ -1082,6 +1078,10 @@ I'm leaving for London === Я уезжаю в Лондон (я есть оста
 | 64. | be         `би`         | was / were `воз / веер` | been       `бин`        | быть                    |
 | 65. | see        `сии`        | saw        `со`         | seen       `син`        | видеть                  |
 
+
+[Порядок слов в английском предложении](https://www.native-english.ru/grammar/word-order) **|** [1](http://iloveenglish.ru/stories/view/pishem_interesnij_rasskaz_o_sebe_na_anglijskom) **|** [2](http://skyeng.ru/articles/gotovimsya-k-sobesedovaniyu-na-anglijskom-yazyke-rasskaz-o-sebe?source_type=cpa&utm_source=admitad&admitad_uid=511c2f4ff8d950bec40ac453849847f6) **|** [3](http://tonail.com/рассказ-о-себе-на-английском/)
+
+![EDnA6S](EDnA6S.png)
 
 ```
 ---------------[ Наречие `КОГДА ?` ]-------------------[ 1.
