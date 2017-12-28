@@ -1412,6 +1412,7 @@ There is a great difference between her wishes and his possibilities   ( ЧТО-
 - Capability ..................... Возможность
 - Corroboration .................. Подтверждение
 - Coach (Coaching) ............... Тренер (Тренировка)
++ Contribute ..................... Способствовать (содействовать)
 + Cause .......................... Причина
 - Dedication ..................... Самоотверженность / посвящение
 - Decline ........................ Упадок
@@ -1422,6 +1423,7 @@ There is a great difference between her wishes and his possibilities   ( ЧТО-
 - Forced ......................... Принудительный (Форсированный)
 - In fact (Actually) ............. По факту / На самом деле
 - Immediately .................... Немедленно
+- Imperative ..................... Повелительный
 - Invitation (Invite) ............ Приглашение
 - Goal ........................... Цель
 - Magnificent .................... Великолепный
