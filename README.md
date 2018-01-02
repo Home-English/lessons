@@ -9,6 +9,7 @@
 * [BBC World Service](http://bbcworldservice.radio.net) **(** [BBC World Service](http://www.bbc.co.uk/radio/player/bbc_world_service) **)**
 * ( `Книга` [STUDENT'S BOOK](CE%20ELEM%203RD%20SB.pdf) )
 * `Книга` [Harry Potter and the Sorcerer's Stone](Harry%20Potter%20and%20the%20Sorcerer's%20Stone.pdf) > [Скачать](http://www2.sdfi.edu.cn/netclass/jiaoan/englit/download/Harry%20Potter%20and%20the%20Sorcerer's%20Stone.pdf)
+* `Книга` [Gladiator](Gladiator.pdf) > [Скачать](http://fobook.ru/fobook/intermediate/Dewey_Gram_-_Gladiator.pdf)
 * `Фильм` [Гарри Поттер и Философский камень на английском с субтитрами](http://lelang.ru/english/series/garri-potter-i-filosofskij-kamen-na-anglijskom-s-subtitrami/) **(**[Гарри Поттер и Философский камень на английском с субтитрами](http://vasabi.tv/video/341-harry-potter-and-the-philosophers-stone/) **)**
 * `Фильмы` [Top Gear](https://www.youtube.com/watch?v=nSqzp3kdAm4) **|** [I, Robot](https://fmovies.se/film/i-robot.r34y/024p43) **|** [Troy](https://fmovies.se/film/troy.6v39/w1pzyl) **|** [Gladiator](https://fmovies.se/film/gladiator.xrz3/806xpn) **|** [Alien](https://fmovies.se/film/alien.rl8p/oj17j5) **|** [Terminator](https://fmovies.se/film/the-terminator.9o9m)
 * `Другие фильмы` [1.](http://vasabi.tv/video/movie/) **|** [2.](http://vasabi.tv/user/profile/admin/) **|** [3.](http://vasabi.tv/video/91-breaking-bad-sezon-1-epizod-1/) **|** [4.](http://lyricstranslate.com/ru/duck-tales-утиные-истории.html-1)
