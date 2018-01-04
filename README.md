@@ -8,6 +8,7 @@
 * [Coach Shane - Q&A](https://www.youtube.com/watch?v=AGiLUyWvLPI&list=PLKYJHW3dXOM7pXJOZVMb2rr15qg7-cL5D) **(** [American Pronunciation](https://www.youtube.com/watch?v=TgGvXPHGs1I) **|** [American English Pronunciation](https://www.youtube.com/watch?v=MqcCCFptaJk) **)**
 * [BBC World Service](http://bbcworldservice.radio.net) **(** [BBC World Service](http://www.bbc.co.uk/radio/player/bbc_world_service) **)**
 * ( `Книга` [STUDENT'S BOOK](CE%20ELEM%203RD%20SB.pdf) )
+* ( `Книга` [EGE 2013 Dolgopolskaya var 15](EGE 2013 Dolgopolskaya var 15.pdf) ) > [Скачать](http://5splusom-school.ru/uploads/Angliisky%20iazik/EGE/KIMy%202012%202014/EGE%202013%20Dolgopolskaya%20var%2015.pdf)
 * `Книга` [Harry Potter and the Sorcerer's Stone](Harry%20Potter%20and%20the%20Sorcerer's%20Stone.pdf) > [Скачать](http://www2.sdfi.edu.cn/netclass/jiaoan/englit/download/Harry%20Potter%20and%20the%20Sorcerer's%20Stone.pdf)
 * `Книга` [Gladiator](Gladiator.pdf) > [Скачать](http://fobook.ru/fobook/intermediate/Dewey_Gram_-_Gladiator.pdf)
 * `Фильм` [Гарри Поттер и Философский камень на английском с субтитрами](http://lelang.ru/english/series/garri-potter-i-filosofskij-kamen-na-anglijskom-s-subtitrami/) **(**[Гарри Поттер и Философский камень на английском с субтитрами](http://vasabi.tv/video/341-harry-potter-and-the-philosophers-stone/) **)**
