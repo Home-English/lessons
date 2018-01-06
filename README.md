@@ -1176,6 +1176,7 @@ Experience ..... опыт / стаж
 Expression ..... выражение
 Event .......... событие
 Feature ........ особенность
+Flaw (Flaws / flawed) недостатки
 Fluency ........ плавность / беглость
 Frequency ...... частота
 Instance ....... пример
