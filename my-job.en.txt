@@ -1,0 +1,31 @@
+https://jhipster.ru/
+
+My last work place is a Blockchain project;
+The blockchain project was the startup;
+The blockchaine project has a microservice architector.
+At the project I had many different and interest tasks.
+One of many my task I had develop the register service.
+And also I had a user wallet of microservice.
+And also I took part to at another tasks, for example install and configuration the project platform.
+And at the project I integrate new technologies, for example: the kafka, the two factor authentication, the SMS-message dispatch (с помощью API-провайдера).
+I promouted install and configure tools that build and deploy this microservices to our platform.
+At the project I acquaint the JHipster platform, and I learned to generate and deploy some new microservice.
+The project has next technologies as: the java eight, the spring boot two, the jhipster five, the react, the kafka, the angular five, the postgresql database.
+At the project has the junit test, the mock unittest and the integrational test.
+Our team has twelve developer men.
+It has five member a backend developers, two member a frontend developers, two member a technical consultants, one member a lead our team, one member a project manager, two member a analyst and two member a testers people.
+At work process to our team has scram system.
+Everyday we had daily meetings.
+And we had a two weeks of sprint.
+Our sprints had people from our team and independed people from customer side.
+Every tasks has several phase that it do full complete.
+- Our business analyst provide the asserted requirements by project from customer to us.
+- The begin process our team discuss the architectural model of project.
+- Next time our lead member created specific tasks that was according the requirements by sprint.
+- And next time our team estimated every task;
+- Our project manager prepared the list tasks on the next phase of sprint;
+- The start of new sprint give out tasks of the sprint (или можно было взять задачу по желанию или тим-лид мог назначить задачу на разработчика);
+- After implemented task developer must coverage a junit test for a task's code and to pass on code review.
+- (код-ревью могли просматривать паралельно несколько разработчиков) Only after get successfully agreement the code review then the task turn to on test people;
+- как правило тестирование немного опаздывало от разработки, поэтому чтобы укладываться за графиком спринты немного сдвигали чтобы успевать тестировать;
+- And after successfully test completed the task turn on product - and it was the finish phase.
