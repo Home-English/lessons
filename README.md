@@ -17,7 +17,7 @@
 * `Еще фильмы` [Кинг Конг (2005)](http://baskino.co/films/boeviki/1242-king-kong.html) **|** [Один дома](http://baskino.co/films/komedii/747-odin-doma.html) **|** [Один дома 2](http://baskino.co/films/komedii/749-odin-doma-2.html) **|** [Один дома 3](http://baskino.co/films/boeviki/751-odin-doma-3.html) **|** [Один дома 4](http://baskino.co/films/komedii/753-odin-doma-4.html) **|** [Онг Бак (2003)](http://baskino.co/films/boevie-iskustva/331-ong-bak.html) **|** [Troy](https://fmovies.se/film/troy.6v39/w1pzyl) **|** [I, Robot](https://fmovies.se/film/i-robot.r34y/024p43)
 * `Сказки на английском языке` [correctenglish.ru](http://www.correctenglish.ru/reading/fairy-tales/)
 * **(** [еще](https://github.com/Home-GWT/TopLinkExample/blob/master/docs/AboutMe.txt#L41) **)**
-* **[Online проверка и коррекция произношения](https://speechpad.ru/prononce.php)** **(** skmets@gmail.com **|** jhpot **)**  **|**  **[Speech Recognition Tool](https://www.textfromtospeech.com/en/voice-to-text)**    **(** [Английские фразы и выражения](https://ru.speaklanguages.com/английский/фразы/) **|** [75 способов грамотно начать предложение на английском](https://www.adme.ru/zhizn-nauka/75-sposobov-gramotno-nachat-predlozhenie-na-anglijskom-770710) **)**
+* **[Online проверка и коррекция произношения](https://speechpad.ru/prononce.php)** **(** skmets@gmail.com **+** jhpot **)**   **[Speech Recognition Tool](https://www.textfromtospeech.com/en/voice-to-text)**    **(** [Английские фразы и выражения](https://ru.speaklanguages.com/английский/фразы/) **|** [75 способов грамотно начать предложение на английском](https://www.adme.ru/zhizn-nauka/75-sposobov-gramotno-nachat-predlozhenie-na-anglijskom-770710) **)**
 
 ```
 ---------------[ ??? ]------------------------[
