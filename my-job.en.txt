@@ -14,7 +14,7 @@ At the project I acquaint the JHipster platform, and I learned to generate and d
 The project has next technologies as: the java eight, the spring boot two, the jhipster five, the react, the kafka, the angular five, the postgresql database.
 At the project has the junit test, the mock unittest and the integrational test.
 Our team has twelve developer men.
-It has five member a backend developers, two member a frontend developers, two member a technical consultants, one member a lead our team, one member a project manager, two member a analyst and two member a testers people.
+It has five member a backend developers, two member a frontend developers, two member a technical analists, one member a lead our team, one member a project manager, two member a analyst and two member a testers people.
 At work process to our team has scram system.
 Everyday we had daily meetings.
 And we had a two weeks of sprint.
