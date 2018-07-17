@@ -1627,7 +1627,7 @@ There is a great difference between her wishes and his possibilities   ( ЧТО-
 | 96.  | reliable | надежный |
 | 97.  | represent,presentation | представлять,презентация |
 | 98.  | retrieve | извлекать |
-| 131. | reward | награда |
+| 131. | reward | награждать |
 | 99.  | risk | рисковать |
 | 100. | rode,ride | ехать верхом |
 |      |  |  |
