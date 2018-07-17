@@ -1584,6 +1584,7 @@ There is a great difference between her wishes and his possibilities   ( ЧТО-
 | 63.  | guess | угадывать |
 | 130. | great,greatest | великий,величайший |
 |      |  |  |
+| 132. | hand,arm | рука |
 | 64.  | honest | честный |
 | 65.  | hope | надежда |
 | 66.  | how | как? |
