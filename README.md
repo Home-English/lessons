@@ -1614,7 +1614,7 @@ There is a great difference between her wishes and his possibilities   ( ЧТО-
 | 84.  | perfect | идеально |
 | 85.  | perform,accomplish | выполнять `что делать?` |
 | 86.  | pointer,pointed to,pointed | указатель,указвать на,заостренный `предмет` |
-| 87.  | possible,perhaps,maybe | возможно,может быть |
+| 87.  | possible,perhaps,maybe,probably | возможно,может быть,,вероятно |
 | 88.  | prefer | предпочитать |
 | 89.  | promise | обещание |
 | 90.  | promote | способствовать |
