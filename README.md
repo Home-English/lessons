@@ -1609,7 +1609,7 @@ There is a great difference between her wishes and his possibilities   ( ЧТО-
 |      |  |  |
 | 81.  | quotes,comma | кавычки,запятая |
 |      |  |  |
-| 82.  | painful | болезненный |
+| 82.  | pain,painful | боль,болезненный |
 | 83.  | patient,unpatient | терпеливый,нетерпеливый |
 | 84.  | perfect | идеально |
 | 85.  | perform,accomplish | выполнять `что делать?` |
