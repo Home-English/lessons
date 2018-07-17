@@ -1522,6 +1522,7 @@ There is a great difference between her wishes and his possibilities   ( ЧТО-
 | 9.   | almost,approximately | почти,примерно |
 | 10.  | along | по длине `вдоль` |
 | 11.  | already | уже |
+| 128. | also | а также |
 | 12.  | always | всегда |
 | 13.  | among,between | среди,между |
 | 14.  | amount | количество |
@@ -1536,6 +1537,7 @@ There is a great difference between her wishes and his possibilities   ( ЧТО-
 | 23.  | assistant | помошник |
 |      |  |  |
 | 24.  | back,backward | назад |
+| 129. | begin `begun` | начинать |
 | 25.  | behavior | поведение |
 | 26.  | become | становиться |
 | 27.  | believe,trust | верить,доверять |
