@@ -18,6 +18,8 @@
 * `Сказки на английском языке` [correctenglish.ru](http://www.correctenglish.ru/reading/fairy-tales/)
 * **(** [еще](https://github.com/Home-GWT/TopLinkExample/blob/master/docs/AboutMe.txt#L41) **)**
 * **[Online проверка и коррекция произношения](https://speechpad.ru/prononce.php)** **(** skmets@gmail.com **+** jhpot **)**   **[Speech Recognition Tool](https://www.textfromtospeech.com/en/voice-to-text)**    **(** [Английские фразы и выражения](https://ru.speaklanguages.com/английский/фразы/) **|** [75 способов грамотно начать предложение на английском](https://www.adme.ru/zhizn-nauka/75-sposobov-gramotno-nachat-predlozhenie-na-anglijskom-770710) **)**
+* [![PROMT](https://www.translate.ru/favicon.ico)](http://www.translate.ru/dictionary/en-ru "Online словарь: skmets@gmail.com | a1l9i7e8n") **|** [![speechpad](https://speechpad.ru/favicon.ico)](https://speechpad.ru "Блокнот для речевого ввода: skmets@gmail.com | jhpot") **|** [![speechpad](https://speechpad.ru/favicon.ico)](https://speechpad.ru/prononce.php "Online проверка и коррекция произношения: skmets@gmail.com | jhpot")
+
 
 ```
 ---------------[ ??? ]------------------------[
@@ -1511,7 +1513,7 @@ There is a great difference between her wishes and his possibilities   ( ЧТО-
 
 |      | English                        | Русский                |
 | ---- | ------------------------------ | ---------------------- |
-| [![PROMT](https://www.translate.ru/favicon.ico)](http://www.translate.ru/dictionary/en-ru/above "Прослушать") | about | об, вогруг `о чем? где? куда?` |
+| [![PROMT](https://www.translate.ru/favicon.ico)](http://www.translate.ru/dictionary/en-ru/above "Слушать произношения") | about | об, вогруг `о чем? где? куда?` |
 | [![speechpad](https://speechpad.ru/favicon.ico)](https://speechpad.ru "Проверка и коррекция произношения") | about | об, вогруг `о чем? где? куда?` |
 
 | [![tampermonkey](http://tampermonkey.net/favicon.ico)](https://tampermonkey.net/?ext=dhdg&browser=chrome "Сортировка таблиц разметки в Github") | English | Русский |
