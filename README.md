@@ -1509,6 +1509,8 @@ There is a great difference between her wishes and his possibilities   ( ЧТО-
 Я с нетерпением жду ............ I look forward  (Я с нетерпением жду Вашего ответа ... I look forward to hearing from you)
 ```
 
+[[embed url=http://www.translate.ru/dictionary/en-ru/above]]
+
 <script type="text/javascript">
 var prmtsrc="en";
 var prmttrg="ru";
