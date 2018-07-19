@@ -18,8 +18,7 @@
 * `Сказки на английском языке` [correctenglish.ru](http://www.correctenglish.ru/reading/fairy-tales/)
 * **(** [еще](https://github.com/Home-GWT/TopLinkExample/blob/master/docs/AboutMe.txt#L41) **)**
 * **[Online проверка и коррекция произношения](https://speechpad.ru/prononce.php)** **(** skmets@gmail.com **+** jhpot **)**   **[Speech Recognition Tool](https://www.textfromtospeech.com/en/voice-to-text)**    **(** [Английские фразы и выражения](https://ru.speaklanguages.com/английский/фразы/) **|** [75 способов грамотно начать предложение на английском](https://www.adme.ru/zhizn-nauka/75-sposobov-gramotno-nachat-predlozhenie-na-anglijskom-770710) **)**
-* [![PROMT](https://www.translate.ru/favicon.ico)](http://www.translate.ru/dictionary/en-ru "Online словарь: skmets@gmail.com | a1l9i7e8n") **|** [![speechpad](https://speechpad.ru/favicon.ico)](https://speechpad.ru "Блокнот для речевого ввода: skmets@gmail.com | jhpot") **|** [![speechpad](https://speechpad.ru/favicon.ico)](https://speechpad.ru/prononce.php "Online проверка и коррекция произношения: skmets@gmail.com | jhpot")
-
+* [![PROMT](http://www.promt.ru/img/ru/logo_new.jpg)](http://www.translate.ru/dictionary/en-ru "Online словарь: skmets@gmail.com | a1l9i7e8n") **|** [![speechpad](https://yt3.ggpht.com/a-/ACSszfEozBL3iT_3qdt7oZfD5hMAt7ZiOvzd-EV--w=s48-mo-c-c0xffffffff-rj-k-no)](https://speechpad.ru "Блокнот для речевого ввода: skmets@gmail.com | jhpot") **|** [![speechpad](https://yt3.ggpht.com/a-/ACSszfEozBL3iT_3qdt7oZfD5hMAt7ZiOvzd-EV--w=s48-mo-c-c0xffffffff-rj-k-no)](https://speechpad.ru/prononce.php "Online проверка и коррекция произношения: skmets@gmail.com | jhpot") **|** [![speechpad](https://yt3.ggpht.com/a-/ACSszfEozBL3iT_3qdt7oZfD5hMAt7ZiOvzd-EV--w=s48-mo-c-c0xffffffff-rj-k-no)](https://www.youtube.com/watch?v=KC49jyJWRJE "Проверка произношения Online - Speechpad.ru")
 
 ```
 ---------------[ ??? ]------------------------[
