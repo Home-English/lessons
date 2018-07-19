@@ -1511,7 +1511,7 @@ There is a great difference between her wishes and his possibilities   ( ЧТО-
 
 |      | English                        | Русский                |
 | ---- | ------------------------------ | ---------------------- |
-| ![tampermonkey](http://tampermonkey.net/favicon.ico) | about | об, вогруг `о чем? где? куда?` |
+| [![tampermonkey](http://tampermonkey.net/favicon.ico)](https://tampermonkey.net/?ext=dhdg&browser=chrome) | about | об, вогруг `о чем? где? куда?` |
 
 |      | English                        | Русский                |
 | ---- | ------------------------------ | ---------------------- |
