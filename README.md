@@ -1512,7 +1512,7 @@ There is a great difference between her wishes and his possibilities   ( ЧТО-
 |      | English                        | Русский                |
 | ---- | ------------------------------ | ---------------------- |
 | [![PROMT](https://www.translate.ru/favicon.ico)](http://www.translate.ru/dictionary/en-ru/above "Прослушать") | about | об, вогруг `о чем? где? куда?` |
-| [![speechpad](https://speechpad.ru/favicon.ico)](http://www.translate.ru/dictionary/en-ru/above "Аудио тренажер") | about | об, вогруг `о чем? где? куда?` |
+| [![speechpad](https://speechpad.ru/favicon.ico)](https://speechpad.ru "Аудио тренажер") | about | об, вогруг `о чем? где? куда?` |
 
 | [![tampermonkey](http://tampermonkey.net/favicon.ico)](https://tampermonkey.net/?ext=dhdg&browser=chrome "Сортировка таблиц разметки в Github") | English | Русский |
 | ---- | ------------------------------ | ---------------------- |
