@@ -1511,9 +1511,9 @@ There is a great difference between her wishes and his possibilities   ( ЧТО-
 
 |      | English                        | Русский                |
 | ---- | ------------------------------ | ---------------------- |
-| [![tampermonkey](http://tampermonkey.net/favicon.ico)](https://tampermonkey.net/?ext=dhdg&browser=chrome "Необязательная подсказка") | about | об, вогруг `о чем? где? куда?` |
+| [![PROMT](https://www.translate.ru/favicon.ico)](http://www.translate.ru/dictionary/en-ru/above "Прослушать") | about | об, вогруг `о чем? где? куда?` |
 
-| [![tampermonkey](http://tampermonkey.net/favicon.ico)](https://tampermonkey.net/?ext=dhdg&browser=chrome "Необязательная подсказка") | English | Русский |
+| [![tampermonkey](http://tampermonkey.net/favicon.ico)](https://tampermonkey.net/?ext=dhdg&browser=chrome "Сортировка таблиц разметки в Github") | English | Русский |
 | ---- | ------------------------------ | ---------------------- |
 | 1.   | about | об, вогруг `о чем? где? куда?` |
 | 2.   | above | выше |
