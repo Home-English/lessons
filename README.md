@@ -1515,7 +1515,7 @@ There is a great difference between her wishes and his possibilities   ( ЧТО-
 | [![PROMT](https://www.translate.ru/favicon.ico)](http://www.translate.ru/dictionary/en-ru/above "Слушать произношения") | about | об, вогруг `о чем? где? куда?` |
 | [![speechpad](https://speechpad.ru/favicon.ico)](https://speechpad.ru "Проверка и коррекция произношения") | about | об, вогруг `о чем? где? куда?` |
 
-![The 12 Verb Tenses - Usage](https://www.pinterest.com/pin/80290805841733650)
+![https://www.pinterest.com/pin/80290805841733650](0990db9d1c1ab64f2d2aa222f1ec4e26.jpg)
 
 | [![tampermonkey](http://tampermonkey.net/favicon.ico)](https://tampermonkey.net/?ext=dhdg&browser=chrome "Сортировка таблиц разметки в Github") | English | Русский |
 | ---- | ------------------------------ | ---------------------- |
