@@ -1511,6 +1511,10 @@ There is a great difference between her wishes and his possibilities   ( ЧТО-
 
 |      | English                        | Русский                |
 | ---- | ------------------------------ | ---------------------- |
+| ![tampermonkey](http://tampermonkey.net/favicon.ico) | about | об, вогруг `о чем? где? куда?` |
+
+|      | English                        | Русский                |
+| ---- | ------------------------------ | ---------------------- |
 | 1.   | about | об, вогруг `о чем? где? куда?` |
 | 2.   | above | выше |
 | 3.   | accompany,companion | сопровождать,спутник `сопровождающий,составляющий пару` |
