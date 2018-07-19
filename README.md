@@ -1513,6 +1513,8 @@ There is a great difference between her wishes and his possibilities   ( ЧТО-
 | ---- | ------------------------------ | ---------------------- |
 | [![tampermonkey](http://tampermonkey.net/favicon.ico)](https://tampermonkey.net/?ext=dhdg&browser=chrome) | about | об, вогруг `о чем? где? куда?` |
 
+<a href="https://tampermonkey.net/?ext=dhdg&browser=chrome" target="_blank">![tampermonkey](http://tampermonkey.net/favicon.ico)</a>
+
 |      | English                        | Русский                |
 | ---- | ------------------------------ | ---------------------- |
 | 1.   | about | об, вогруг `о чем? где? куда?` |
