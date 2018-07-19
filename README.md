@@ -1509,6 +1509,17 @@ There is a great difference between her wishes and his possibilities   ( ЧТО-
 Я с нетерпением жду ............ I look forward  (Я с нетерпением жду Вашего ответа ... I look forward to hearing from you)
 ```
 
+<script type="text/javascript">
+var prmtsrc="en";
+var prmttrg="ru";
+var prmttemplate="General";
+var prmtlang="ru";
+var acID="Tr.RuWidget_1390526";
+</script>
+<div id="TranslateRuWidget"><a id="translator_link"  href="https://www.translate.ru" target="_blank">Онлайн-переводчик PROMT</a></div>
+<script type="text/javascript" src="http://widget.translate.ru/js/widget.js"></script>
+
+
 |      | English                        | Русский                |
 | ---- | ------------------------------ | ---------------------- |
 | 1.   | about | об, вогруг `о чем? где? куда?` |
