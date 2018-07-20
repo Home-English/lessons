@@ -1512,7 +1512,7 @@ There is a great difference between her wishes and his possibilities   ( ЧТО-
 
 | [![tampermonkey](http://tampermonkey.net/favicon.ico)](https://tampermonkey.net/?ext=dhdg&browser=chrome "Сортировка таблиц разметки в Github") |     | English | Русский |
 | ----------------------------------------------------------------------------------------------------------------------------------------------- | --- | ------- | ------- |
-| 1. | [![google translate](http://icons.iconarchive.com/icons/marcus-roberto/google-play/16/Google-Translate-icon.png)](https://translate.google.com.ua/#en/ru/about "Слушать произношения") [![speechpad](https://speechpad.ru/favicon.ico)](https://speechpad.ru "Проверка и коррекция произношения") | about | об, вогруг `о чем? где? куда?` |
+| 1. | [![google translate](http://icons.iconarchive.com/icons/marcus-roberto/google-play/16/Google-Translate-icon.png)](https://translate.google.com.ua/#en/ru/about "Слушать произношения") [![PROMT](https://www.translate.ru/favicon.ico)](http://www.translate.ru/dictionary/en-ru/about "Слушать произношения") [![speechpad](https://speechpad.ru/favicon.ico)](https://speechpad.ru "Проверка и коррекция произношения") | about | об, вогруг `о чем? где? куда?` |
 
 |      | English                        | Русский                |
 | ---- | ------------------------------ | ---------------------- |
