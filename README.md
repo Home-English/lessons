@@ -1603,7 +1603,7 @@ There is a great difference between her wishes and his possibilities   ( ЧТО-
 | 73.  | join | присоединится |
 | 74.  | just | просто |
 |      |  |  |
-| 135. | kind,`what kind business` | добрый,вид,`какой вид бизнеса` | [![google translate](http://icons.iconarchive.com/icons/marcus-roberto/google-play/16/Google-Translate-icon.png)](http://translate.google.com.ua/#en/ru/kind,what kind business) [![PROMT](http://www.translate.ru/favicon.ico)](http://www.translate.ru/dictionary/en-ru/kind) [![speechpad](https://speechpad.ru/favicon.ico)](https://speechpad.ru "Проверка и коррекция произношения") |
+| 135. | kind,`what kind business` | добрый,вид,`какой вид бизнеса` | [![google translate](http://icons.iconarchive.com/icons/marcus-roberto/google-play/16/Google-Translate-icon.png)](http://translate.google.com.ua/#en/ru/kind%2Cwhat%20kind%20business) [![PROMT](http://www.translate.ru/favicon.ico)](http://www.translate.ru/dictionary/en-ru/kind) [![speechpad](https://speechpad.ru/favicon.ico)](https://speechpad.ru "Проверка и коррекция произношения") |
 |      |  |  |
 | 76.  | main,major,chief | главный |
 | 77.  | make | делать `что делать?` |
