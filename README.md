@@ -1538,6 +1538,7 @@ There is a great difference between her wishes and his possibilities   ( ЧТО-
 | 21.  | arrow | стрела | [![google translate](http://icons.iconarchive.com/icons/marcus-roberto/google-play/16/Google-Translate-icon.png)](http://translate.google.com.ua/#en/ru/arrow) [![PROMT](http://www.translate.ru/favicon.ico)](http://www.translate.ru/dictionary/en-ru/arrow) [![speechpad](https://speechpad.ru/favicon.ico)](https://speechpad.ru "Проверка и коррекция произношения") |
 | 22.  | as | как | [![google translate](http://icons.iconarchive.com/icons/marcus-roberto/google-play/16/Google-Translate-icon.png)](http://translate.google.com.ua/#en/ru/as) [![PROMT](http://www.translate.ru/favicon.ico)](http://www.translate.ru/dictionary/en-ru/as) [![speechpad](https://speechpad.ru/favicon.ico)](https://speechpad.ru "Проверка и коррекция произношения") |
 | 23.  | assistant | помошник | [![google translate](http://icons.iconarchive.com/icons/marcus-roberto/google-play/16/Google-Translate-icon.png)](http://translate.google.com.ua/#en/ru/assistant) [![PROMT](http://www.translate.ru/favicon.ico)](http://www.translate.ru/dictionary/en-ru/assistant) [![speechpad](https://speechpad.ru/favicon.ico)](https://speechpad.ru "Проверка и коррекция произношения") |
+| 133. | attempt,try | попытка | [![google translate](http://icons.iconarchive.com/icons/marcus-roberto/google-play/16/Google-Translate-icon.png)](http://translate.google.com.ua/#en/ru/attempt,try) [![PROMT](http://www.translate.ru/favicon.ico)](http://www.translate.ru/dictionary/en-ru/attempt) [![speechpad](https://speechpad.ru/favicon.ico)](https://speechpad.ru "Проверка и коррекция произношения") |
 |      |  |  |
 | 24.  | back,backward | назад | [![google translate](http://icons.iconarchive.com/icons/marcus-roberto/google-play/16/Google-Translate-icon.png)](http://translate.google.com.ua/#en/ru/back,backward) [![PROMT](http://www.translate.ru/favicon.ico)](http://www.translate.ru/dictionary/en-ru/back) [![speechpad](https://speechpad.ru/favicon.ico)](https://speechpad.ru "Проверка и коррекция произношения") |
 | 129. | begin `begun` | начинать | [![google translate](http://icons.iconarchive.com/icons/marcus-roberto/google-play/16/Google-Translate-icon.png)](http://translate.google.com.ua/#en/ru/begin,begun) [![PROMT](http://www.translate.ru/favicon.ico)](http://www.translate.ru/dictionary/en-ru/begin) [![speechpad](https://speechpad.ru/favicon.ico)](https://speechpad.ru "Проверка и коррекция произношения") |
@@ -1602,7 +1603,7 @@ There is a great difference between her wishes and his possibilities   ( ЧТО-
 | 73.  | join | присоединится |
 | 74.  | just | просто |
 |      |  |  |
-| 75.  | kind | добрый |
+| 135. | kind,`what kind business` | добрый,вид,`какой вид бизнеса` | [![google translate](http://icons.iconarchive.com/icons/marcus-roberto/google-play/16/Google-Translate-icon.png)](http://translate.google.com.ua/#en/ru/kind,what kind business) [![PROMT](http://www.translate.ru/favicon.ico)](http://www.translate.ru/dictionary/en-ru/kind) [![speechpad](https://speechpad.ru/favicon.ico)](https://speechpad.ru "Проверка и коррекция произношения") |
 |      |  |  |
 | 76.  | main,major,chief | главный |
 | 77.  | make | делать `что делать?` |
@@ -1610,7 +1611,7 @@ There is a great difference between her wishes and his possibilities   ( ЧТО-
 | 79.  | mean,which means that | означать,который означает что |
 | 80.  | modest | скромный |
 |      |  |  |
-| 81.  | quotes,comma | кавычки,запятая |
+| 134. | overview | обзор | [![google translate](http://icons.iconarchive.com/icons/marcus-roberto/google-play/16/Google-Translate-icon.png)](http://translate.google.com.ua/#en/ru/overview) [![PROMT](http://www.translate.ru/favicon.ico)](http://www.translate.ru/dictionary/en-ru/overview) [![speechpad](https://speechpad.ru/favicon.ico)](https://speechpad.ru "Проверка и коррекция произношения") |
 |      |  |  |
 | 82.  | pain,painful | боль,болезненный |
 | 83.  | patient,unpatient | терпеливый,нетерпеливый |
@@ -1623,6 +1624,7 @@ There is a great difference between her wishes and his possibilities   ( ЧТО-
 | 90.  | promote | способствовать |
 |      |  |  |
 | 91.  | quard,security,protection | стража,безопасность,защита `охрана` |
+| 81.  | quotes,comma | кавычки,запятая | [![google translate](http://icons.iconarchive.com/icons/marcus-roberto/google-play/16/Google-Translate-icon.png)](http://translate.google.com.ua/#en/ru/quotes,comma) [![PROMT](http://www.translate.ru/favicon.ico)](http://www.translate.ru/dictionary/en-ru/quotes) [![speechpad](https://speechpad.ru/favicon.ico)](https://speechpad.ru "Проверка и коррекция произношения") |
 |      |  |  |
 | 92.  | rather | скорее всего |
 | 93.  | reason,cause | причина |
@@ -1652,6 +1654,7 @@ There is a great difference between her wishes and his possibilities   ( ЧТО-
 | 115. | strange | странный |
 | 116. | suddenly | внезапно |
 | 117. | suggest | предлагать |
+| 136. | suppose,propose | предполагать | [![google translate](http://icons.iconarchive.com/icons/marcus-roberto/google-play/16/Google-Translate-icon.png)](http://translate.google.com.ua/#en/ru/suppose,propose) [![PROMT](http://www.translate.ru/favicon.ico)](http://www.translate.ru/dictionary/en-ru/suppose) [![speechpad](https://speechpad.ru/favicon.ico)](https://speechpad.ru "Проверка и коррекция произношения") |
 | 118. | sure | увереность,конечно |
 | 119. | survivor | выжившие |
 |      |  |  |
