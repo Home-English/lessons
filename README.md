@@ -1539,14 +1539,14 @@ There is a great difference between her wishes and his possibilities   ( ЧТО-
 | 22.  | as | как | [![google translate](http://icons.iconarchive.com/icons/marcus-roberto/google-play/16/Google-Translate-icon.png)](http://translate.google.com.ua/#en/ru/as) [![PROMT](http://www.translate.ru/favicon.ico)](http://www.translate.ru/dictionary/en-ru/as) [![speechpad](https://speechpad.ru/favicon.ico)](https://speechpad.ru "Проверка и коррекция произношения") |
 | 23.  | assistant | помошник | [![google translate](http://icons.iconarchive.com/icons/marcus-roberto/google-play/16/Google-Translate-icon.png)](http://translate.google.com.ua/#en/ru/assistant) [![PROMT](http://www.translate.ru/favicon.ico)](http://www.translate.ru/dictionary/en-ru/assistant) [![speechpad](https://speechpad.ru/favicon.ico)](https://speechpad.ru "Проверка и коррекция произношения") |
 |      |  |  |
-| 24.  | back,backward | назад |
-| 129. | begin `begun` | начинать |
-| 25.  | behavior | поведение |
-| 26.  | become | становиться |
-| 27.  | believe,trust | верить,доверять |
-| 28.  | below | ниже |
-| 29.  | broad | вся ширина `обширный` |
-| 30.  | broke | ломать |
+| 24.  | back,backward | назад | [![google translate](http://icons.iconarchive.com/icons/marcus-roberto/google-play/16/Google-Translate-icon.png)](http://translate.google.com.ua/#en/ru/back,backward) [![PROMT](http://www.translate.ru/favicon.ico)](http://www.translate.ru/dictionary/en-ru/back) [![speechpad](https://speechpad.ru/favicon.ico)](https://speechpad.ru "Проверка и коррекция произношения") |
+| 129. | begin `begun` | начинать | [![google translate](http://icons.iconarchive.com/icons/marcus-roberto/google-play/16/Google-Translate-icon.png)](http://translate.google.com.ua/#en/ru/assistant) [![PROMT](http://www.translate.ru/favicon.ico)](http://www.translate.ru/dictionary/en-ru/assistant) [![speechpad](https://speechpad.ru/favicon.ico)](https://speechpad.ru "Проверка и коррекция произношения") |
+| 25.  | behavior | поведение | [![google translate](http://icons.iconarchive.com/icons/marcus-roberto/google-play/16/Google-Translate-icon.png)](http://translate.google.com.ua/#en/ru/assistant) [![PROMT](http://www.translate.ru/favicon.ico)](http://www.translate.ru/dictionary/en-ru/assistant) [![speechpad](https://speechpad.ru/favicon.ico)](https://speechpad.ru "Проверка и коррекция произношения") |
+| 26.  | become | становиться | [![google translate](http://icons.iconarchive.com/icons/marcus-roberto/google-play/16/Google-Translate-icon.png)](http://translate.google.com.ua/#en/ru/assistant) [![PROMT](http://www.translate.ru/favicon.ico)](http://www.translate.ru/dictionary/en-ru/assistant) [![speechpad](https://speechpad.ru/favicon.ico)](https://speechpad.ru "Проверка и коррекция произношения") |
+| 27.  | believe,trust | верить,доверять | [![google translate](http://icons.iconarchive.com/icons/marcus-roberto/google-play/16/Google-Translate-icon.png)](http://translate.google.com.ua/#en/ru/assistant) [![PROMT](http://www.translate.ru/favicon.ico)](http://www.translate.ru/dictionary/en-ru/assistant) [![speechpad](https://speechpad.ru/favicon.ico)](https://speechpad.ru "Проверка и коррекция произношения") |
+| 28.  | below | ниже | [![google translate](http://icons.iconarchive.com/icons/marcus-roberto/google-play/16/Google-Translate-icon.png)](http://translate.google.com.ua/#en/ru/assistant) [![PROMT](http://www.translate.ru/favicon.ico)](http://www.translate.ru/dictionary/en-ru/assistant) [![speechpad](https://speechpad.ru/favicon.ico)](https://speechpad.ru "Проверка и коррекция произношения") |
+| 29.  | broad | вся ширина `обширный` | [![google translate](http://icons.iconarchive.com/icons/marcus-roberto/google-play/16/Google-Translate-icon.png)](http://translate.google.com.ua/#en/ru/assistant) [![PROMT](http://www.translate.ru/favicon.ico)](http://www.translate.ru/dictionary/en-ru/assistant) [![speechpad](https://speechpad.ru/favicon.ico)](https://speechpad.ru "Проверка и коррекция произношения") |
+| 30.  | broke | ломать | [![google translate](http://icons.iconarchive.com/icons/marcus-roberto/google-play/16/Google-Translate-icon.png)](http://translate.google.com.ua/#en/ru/assistant) [![PROMT](http://www.translate.ru/favicon.ico)](http://www.translate.ru/dictionary/en-ru/assistant) [![speechpad](https://speechpad.ru/favicon.ico)](https://speechpad.ru "Проверка и коррекция произношения") |
 |      |  |  |
 | 31.  | calm,quiet | спокойный,тихо |
 | 32.  | capture | захватить |
