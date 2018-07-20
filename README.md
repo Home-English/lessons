@@ -1510,16 +1510,10 @@ There is a great difference between her wishes and his possibilities   ( ЧТО-
 Я с нетерпением жду ............ I look forward  (Я с нетерпением жду Вашего ответа ... I look forward to hearing from you)
 ```
 
-| [![tampermonkey](http://tampermonkey.net/favicon.ico)](https://tampermonkey.net/?ext=dhdg&browser=chrome "Сортировка таблиц разметки в Github") | English | Русский | [Проверка произношения Online - Speechpad.ru](https://www.youtube.com/watch?v=KC49jyJWRJE "YouTube") |
-| ----------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | ------- | ------- |
-| 1. | about | об, вогруг `о чем? где? куда?` | [![google translate](http://icons.iconarchive.com/icons/marcus-roberto/google-play/16/Google-Translate-icon.png)](https://translate.google.com.ua/#en/ru/about "Слушать произношения") [![PROMT](https://www.translate.ru/favicon.ico)](http://www.translate.ru/dictionary/en-ru/about "Слушать произношения") [![speechpad](https://speechpad.ru/favicon.ico)](https://speechpad.ru "Проверка и коррекция произношения") |
-
-|      | English                        | Русский                |
-| ---- | ------------------------------ | ---------------------- |
-| [![PROMT](https://www.translate.ru/favicon.ico)](http://www.translate.ru/dictionary/en-ru/about "Слушать произношения") | about | об, вогруг `о чем? где? куда?` |
-| [![google translate](http://icons.iconarchive.com/icons/marcus-roberto/google-play/16/Google-Translate-icon.png)](https://translate.google.com.ua/#en/ru/about "Слушать произношения") | about | об, вогруг `о чем? где? куда?` |
-| [![speechpad](https://speechpad.ru/favicon.ico)](https://speechpad.ru "Проверка и коррекция произношения") | about | об, вогруг `о чем? где? куда?` |
-
+| [![tampermonkey](http://tampermonkey.net/favicon.ico)](https://tampermonkey.net/?ext=dhdg&browser=chrome "Сортировка таблиц разметки в Github") | English | Русский | [Speechpad.ru](https://www.youtube.com/watch?v=KC49jyJWRJE "YouTube") |
+| ----------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ------- | --------------------------------------------------------------------- |
+| 1. | about | об, вогруг `о чем? где? куда?` | [![google translate](http://icons.iconarchive.com/icons/marcus-roberto/google-play/16/Google-Translate-icon.png)](https://translate.google.com.ua/#en/ru/about) [![PROMT](https://www.translate.ru/favicon.ico)](http://www.translate.ru/dictionary/en-ru/about) [![speechpad](https://speechpad.ru/favicon.ico)](https://speechpad.ru "Проверка и коррекция произношения") |
+| 2. | above | выше | [![google translate](http://icons.iconarchive.com/icons/marcus-roberto/google-play/16/Google-Translate-icon.png)](https://translate.google.com.ua/#en/ru/above) [![PROMT](https://www.translate.ru/favicon.ico)](http://www.translate.ru/dictionary/en-ru/above) [![speechpad](https://speechpad.ru/favicon.ico)](https://speechpad.ru "Проверка и коррекция произношения") |
 
 ![https://www.pinterest.com/pin/80290805841733650](0990db9d1c1ab64f2d2aa222f1ec4e26.jpg)
 
