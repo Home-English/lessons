@@ -1549,19 +1549,19 @@ There is a great difference between her wishes and his possibilities   ( ЧТО-
 | 29.  | broad | вся ширина `обширный` | [![google translate](http://icons.iconarchive.com/icons/marcus-roberto/google-play/16/Google-Translate-icon.png)](http://translate.google.com.ua/#en/ru/broad) [![PROMT](http://www.translate.ru/favicon.ico)](http://www.translate.ru/dictionary/en-ru/broad) [![speechpad](https://speechpad.ru/favicon.ico)](https://speechpad.ru "Проверка и коррекция произношения") |
 | 30.  | broke | ломать | [![google translate](http://icons.iconarchive.com/icons/marcus-roberto/google-play/16/Google-Translate-icon.png)](http://translate.google.com.ua/#en/ru/broke) [![PROMT](http://www.translate.ru/favicon.ico)](http://www.translate.ru/dictionary/en-ru/broke) [![speechpad](https://speechpad.ru/favicon.ico)](https://speechpad.ru "Проверка и коррекция произношения") |
 |      |  |  |
-| 31.  | calm,quiet | спокойный,тихо |
-| 32.  | capture | захватить |
-| 33.  | caring | заботливый |
-| 34.  | cast | отбрасывать (лишнее) |
-| 35.  | come on | давай-же |
-| 36.  | common | распространенный |
-| 37.  | complex,challenge | сложный `большой-сложный метод`,сложная `задача` |
-| 38.  | congratulation,compliment | поздравление |
-| 39.  | conjunction,intersection | пересечение дорог,пересечение |
-| 40.  | consider | рассматривать `разные варианты` |
-| 41.  | correspond | вести переписку |
-| 42.  | creative | творческий |
-| 43.  | cycle,loop | цыкл |
+| 31.  | calm,quiet | спокойный,тихо | [![google translate](http://icons.iconarchive.com/icons/marcus-roberto/google-play/16/Google-Translate-icon.png)](http://translate.google.com.ua/#en/ru/calm,quiet) [![PROMT](http://www.translate.ru/favicon.ico)](http://www.translate.ru/dictionary/en-ru/calm) [![speechpad](https://speechpad.ru/favicon.ico)](https://speechpad.ru "Проверка и коррекция произношения") |
+| 32.  | capture | захватить | [![google translate](http://icons.iconarchive.com/icons/marcus-roberto/google-play/16/Google-Translate-icon.png)](http://translate.google.com.ua/#en/ru/satisfy,satisfied,unsatisfied) [![PROMT](http://www.translate.ru/favicon.ico)](http://www.translate.ru/dictionary/en-ru/satisfy) [![speechpad](https://speechpad.ru/favicon.ico)](https://speechpad.ru "Проверка и коррекция произношения") |
+| 33.  | caring | заботливый | [![google translate](http://icons.iconarchive.com/icons/marcus-roberto/google-play/16/Google-Translate-icon.png)](http://translate.google.com.ua/#en/ru/satisfy,satisfied,unsatisfied) [![PROMT](http://www.translate.ru/favicon.ico)](http://www.translate.ru/dictionary/en-ru/satisfy) [![speechpad](https://speechpad.ru/favicon.ico)](https://speechpad.ru "Проверка и коррекция произношения") |
+| 34.  | cast | отбрасывать (лишнее) | [![google translate](http://icons.iconarchive.com/icons/marcus-roberto/google-play/16/Google-Translate-icon.png)](http://translate.google.com.ua/#en/ru/satisfy,satisfied,unsatisfied) [![PROMT](http://www.translate.ru/favicon.ico)](http://www.translate.ru/dictionary/en-ru/satisfy) [![speechpad](https://speechpad.ru/favicon.ico)](https://speechpad.ru "Проверка и коррекция произношения") |
+| 35.  | come on | давай-же | [![google translate](http://icons.iconarchive.com/icons/marcus-roberto/google-play/16/Google-Translate-icon.png)](http://translate.google.com.ua/#en/ru/satisfy,satisfied,unsatisfied) [![PROMT](http://www.translate.ru/favicon.ico)](http://www.translate.ru/dictionary/en-ru/satisfy) [![speechpad](https://speechpad.ru/favicon.ico)](https://speechpad.ru "Проверка и коррекция произношения") |
+| 36.  | common | распространенный | [![google translate](http://icons.iconarchive.com/icons/marcus-roberto/google-play/16/Google-Translate-icon.png)](http://translate.google.com.ua/#en/ru/satisfy,satisfied,unsatisfied) [![PROMT](http://www.translate.ru/favicon.ico)](http://www.translate.ru/dictionary/en-ru/satisfy) [![speechpad](https://speechpad.ru/favicon.ico)](https://speechpad.ru "Проверка и коррекция произношения") |
+| 37.  | complex,challenge | сложный `большой-сложный метод`,сложная `задача` | [![google translate](http://icons.iconarchive.com/icons/marcus-roberto/google-play/16/Google-Translate-icon.png)](http://translate.google.com.ua/#en/ru/satisfy,satisfied,unsatisfied) [![PROMT](http://www.translate.ru/favicon.ico)](http://www.translate.ru/dictionary/en-ru/satisfy) [![speechpad](https://speechpad.ru/favicon.ico)](https://speechpad.ru "Проверка и коррекция произношения") |
+| 38.  | congratulation,compliment | поздравление | [![google translate](http://icons.iconarchive.com/icons/marcus-roberto/google-play/16/Google-Translate-icon.png)](http://translate.google.com.ua/#en/ru/satisfy,satisfied,unsatisfied) [![PROMT](http://www.translate.ru/favicon.ico)](http://www.translate.ru/dictionary/en-ru/satisfy) [![speechpad](https://speechpad.ru/favicon.ico)](https://speechpad.ru "Проверка и коррекция произношения") |
+| 39.  | conjunction,intersection | пересечение дорог,пересечение | [![google translate](http://icons.iconarchive.com/icons/marcus-roberto/google-play/16/Google-Translate-icon.png)](http://translate.google.com.ua/#en/ru/satisfy,satisfied,unsatisfied) [![PROMT](http://www.translate.ru/favicon.ico)](http://www.translate.ru/dictionary/en-ru/satisfy) [![speechpad](https://speechpad.ru/favicon.ico)](https://speechpad.ru "Проверка и коррекция произношения") |
+| 40.  | consider | рассматривать `разные варианты` | [![google translate](http://icons.iconarchive.com/icons/marcus-roberto/google-play/16/Google-Translate-icon.png)](http://translate.google.com.ua/#en/ru/satisfy,satisfied,unsatisfied) [![PROMT](http://www.translate.ru/favicon.ico)](http://www.translate.ru/dictionary/en-ru/satisfy) [![speechpad](https://speechpad.ru/favicon.ico)](https://speechpad.ru "Проверка и коррекция произношения") |
+| 41.  | correspond | вести переписку | [![google translate](http://icons.iconarchive.com/icons/marcus-roberto/google-play/16/Google-Translate-icon.png)](http://translate.google.com.ua/#en/ru/satisfy,satisfied,unsatisfied) [![PROMT](http://www.translate.ru/favicon.ico)](http://www.translate.ru/dictionary/en-ru/satisfy) [![speechpad](https://speechpad.ru/favicon.ico)](https://speechpad.ru "Проверка и коррекция произношения") |
+| 42.  | creative | творческий | [![google translate](http://icons.iconarchive.com/icons/marcus-roberto/google-play/16/Google-Translate-icon.png)](http://translate.google.com.ua/#en/ru/satisfy,satisfied,unsatisfied) [![PROMT](http://www.translate.ru/favicon.ico)](http://www.translate.ru/dictionary/en-ru/satisfy) [![speechpad](https://speechpad.ru/favicon.ico)](https://speechpad.ru "Проверка и коррекция произношения") |
+| 43.  | cycle,loop | цыкл | [![google translate](http://icons.iconarchive.com/icons/marcus-roberto/google-play/16/Google-Translate-icon.png)](http://translate.google.com.ua/#en/ru/satisfy,satisfied,unsatisfied) [![PROMT](http://www.translate.ru/favicon.ico)](http://www.translate.ru/dictionary/en-ru/satisfy) [![speechpad](https://speechpad.ru/favicon.ico)](https://speechpad.ru "Проверка и коррекция произношения") |
 |      |  |  |
 | 44.  | decide,resolved | решать `задачу,проблему`,решеный |
 | 45.  | define,identify,determine | определить,идентифицировать |
@@ -1638,6 +1638,7 @@ There is a great difference between her wishes and his possibilities   ( ЧТО-
 | 100. | rode,ride | ехать верхом |
 |      |  |  |
 | 101. | sad | грустный |
+| 137. | satisfy,satisfied,unsatisfied | удовлетворять,удовлетворенный,неудовлетворенный | [![google translate](http://icons.iconarchive.com/icons/marcus-roberto/google-play/16/Google-Translate-icon.png)](http://translate.google.com.ua/#en/ru/satisfy,satisfied,unsatisfied) [![PROMT](http://www.translate.ru/favicon.ico)](http://www.translate.ru/dictionary/en-ru/satisfy) [![speechpad](https://speechpad.ru/favicon.ico)](https://speechpad.ru "Проверка и коррекция произношения") |
 | 102. | separate | отдельные |
 | 103. | sequence | последовательность |
 | 104. | serious | серьезный |
