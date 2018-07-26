@@ -1742,6 +1742,8 @@ There is a great difference between her wishes and his possibilities   ( ЧТО-
 ------------------------------------------
 
 * `Английский алфавит` http://begin-english.ru/alfavit **|** http://englishtexts.ru/english-grammar/abc **|** [как американцы произносят слова по губам](https://books.google.com.ua/books?id=bnBJDwAAQBAJ&pg=PA5&lpg=PA5&dq=как+американцы+произносят+слова+по+губам&source=bl&ots=fjZpfbGLDV&sig=wXHGH60GHciE62pcA0tCrHV4mjk&hl=ru&sa=X&ved=2ahUKEwi8k9fPpLvcAhVCEywKHf0SCQAQ6AEwEXoECAgQAQ#v=onepage&q=как%20американцы%20произносят%20слова%20по%20губам&f=false)
+* `6 советов для тренировки правильного английского произношения` https://englex.ru/top-13-russian-mistakes-in-english-pronunciation **|** https://lifehacker.ru/good-pronunciation **|** [7 Выражений На Английском, Которые Нужно Знать](https://www.youtube.com/watch?time_continue=15&v=6iii7GZ6xRw)
+* `Как научиться читать по-английски самостоятельно` http://englishstory.ru/how-to-read-in-english.html **|** http://englishstory.ru/english-sounds-p-t-k-h.html
 
 ```
 (предлоги + артикли) они помогают уточнять смысл слова внутри преложения
