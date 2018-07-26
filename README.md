@@ -1745,6 +1745,29 @@ There is a great difference between her wishes and his possibilities   ( ЧТО-
 * `6 советов для тренировки правильного английского произношения` https://englex.ru/top-13-russian-mistakes-in-english-pronunciation **|** https://lifehacker.ru/good-pronunciation **|** [7 Выражений На Английском, Которые Нужно Знать](https://www.youtube.com/watch?time_continue=15&v=6iii7GZ6xRw)
 * `Как научиться читать по-английски самостоятельно` http://englishstory.ru/how-to-read-in-english.html **|** http://englishstory.ru/english-sounds-p-t-k-h.html
 
+| English | Русский |
+| ------- | ------- |
+| Cut to the chase | Перейти сразу к делу |
+| Lock I don't have time for this | Слушай у меня на это нет времени |
+| Just cut to the chase already | Давай сразу к делу |
+| Backseat driver | тот кто дает непрошенные советы |
+| You are too much of a backseat driver right now | Ты сейчас даеш мне столько советов которые мне не нужны |
+| I can do it myself, thanks! | Спасибо я и сам справлюсь |
+| Pull someone's leg | Пошутить над кем-то (разыграть кого-то) |
+| This can't be true | Не может быть |
+| You must be pulling my leg! | Ты меня разыгрываеш! |
+| You wish | еще чего (да сейчас, разбежался) |
+| Will you by me the new iphone? | Ты кукпиш мне новый айфон? |
+| Yeah you wish!| Ага, разбежался! |
+| No sweat | не парься (очень легко) |
+| Can you finish the project by friday? | Ты сможеш закончить проект до пятницы? |
+| No sweat boss! | Без проблем босс! |
+| Go dutch | заплатить за себя |
+| Let's go out together! | Давай сходим на свидания |
+| We'll go dutch if you want | Можем заплатить поравну если хочеш |
+| Call it a day | Закруглятся |
+| Alright, let's call it a day | На сегодня хватит |
+
 ```
 (предлоги + артикли) они помогают уточнять смысл слова внутри преложения
 + в русском языке смысл слова внутри предложения выражается через окончание
