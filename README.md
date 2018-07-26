@@ -1738,6 +1738,11 @@ There is a great difference between her wishes and his possibilities   ( ЧТО-
 | Союз | when | когда? `время` | [![google translate](http://icons.iconarchive.com/icons/marcus-roberto/google-play/16/Google-Translate-icon.png)](http://translate.google.com.ua/#en/ru/when) [![PROMT](http://www.translate.ru/favicon.ico)](http://www.translate.ru/dictionary/en-ru/when) [![speechpad](https://speechpad.ru/favicon.ico)](https://speechpad.ru "Проверка и коррекция произношения") |
 | Союз | where | где? `место` | [![google translate](http://icons.iconarchive.com/icons/marcus-roberto/google-play/16/Google-Translate-icon.png)](http://translate.google.com.ua/#en/ru/where) [![PROMT](http://www.translate.ru/favicon.ico)](http://www.translate.ru/dictionary/en-ru/where) [![speechpad](https://speechpad.ru/favicon.ico)](https://speechpad.ru "Проверка и коррекция произношения") |
 
+Видео словарь произношение английских букв
+------------------------------------------
+
+* `Английский алфавит` http://begin-english.ru/alfavit **|** http://englishtexts.ru/english-grammar/abc **|** [как американцы произносят слова по губам](https://books.google.com.ua/books?id=bnBJDwAAQBAJ&pg=PA5&lpg=PA5&dq=как+американцы+произносят+слова+по+губам&source=bl&ots=fjZpfbGLDV&sig=wXHGH60GHciE62pcA0tCrHV4mjk&hl=ru&sa=X&ved=2ahUKEwi8k9fPpLvcAhVCEywKHf0SCQAQ6AEwEXoECAgQAQ#v=onepage&q=как%20американцы%20произносят%20слова%20по%20губам&f=false)
+
 ```
 (предлоги + артикли) они помогают уточнять смысл слова внутри преложения
 + в русском языке смысл слова внутри предложения выражается через окончание
@@ -1868,7 +1873,7 @@ You look at me  (ты смотреть на меня)
 
 * [my-job.ru](my-job.ru.txt) **|** [my-job.en](my-job.en.txt)
 
-В английском языке по разному описываются явные и абстрактные предметы (в отличии от русского языка)
+В английском языке по разному описываются явные и абстрактные предметы (в отличии от русского языка) - только для технических вещей
 ----------------------------------------------------------------------------------------------------
 
 ![557623](557623.jpg)
@@ -1904,7 +1909,7 @@ You look at me  (ты смотреть на меня)
    там есть толкающая пружина, тормозящая пружина и шестеренки стрелок (каждый следующий компонент зависит и каким-то способом работает от предыдущего)...
 .. Но в английском языке, там где это можно, лучше явно описывать такие простые действия.
 Например:
-Толкающая пружина раскручивает шестеренки.
+Толкающая пружина раскручивает шестеренки (ведет весь этот механизм).
 
 И после того когда уже описали какой-нибудь сложный модуль-механизм, нужно сказать МОЖНО
 ----------------------------------------------------------------------------------------
