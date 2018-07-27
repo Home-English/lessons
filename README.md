@@ -1757,7 +1757,7 @@ There is a great difference between her wishes and his possibilities   ( ЧТО-
 | This can't be true | Не может быть |
 | You must be pulling my leg! | Ты меня разыгрываеш! |
 | You wish | еще чего (да сейчас, разбежался) |
-| Will you by me the new iphone? | Ты кукпиш мне новый айфон? |
+| Will you by me the new iphone? | Ты купиш мне новый айфон? |
 | Yeah you wish!| Ага, разбежался! |
 | No sweat | не парься (очень легко) |
 | Can you finish the project by friday? | Ты сможеш закончить проект до пятницы? |
